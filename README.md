@@ -1,496 +1,287 @@
-# Awesome-Community-Platform
+# 🌐 Awesome Community Platform [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Community Platform Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Community-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Community-Platform?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Community-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Community-Platform?style=flat-square&logo=github" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Community-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Community-Platform?style=flat-square" alt="GitHub issues" /></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 📖 Overview & SEO Guide
+
+**Awesome Community Platform** is a curated index of the best **SaaS hosted software** and **open-source GitHub repositories** for building, hosting, managing, and scaling modern digital communities.
+
+Whether you are launching a **customer support forum**, **developer community hub**, **creator membership platform**, **decentralized Fediverse network**, **internal employee social intranet**, or **alumni organization portal**, this resource covers the entire ecosystem—including discussion engines, real-time messaging, knowledge bases, member authentication, push notification pipelines, community analytics, and AI-powered moderation.
+
+---
+
+## 📑 Table of Contents
+
+- [☁️ SaaS & Hosted Community Platforms](#-saas--hosted-community-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [💬 Full Community & Forum Platforms](#-full-community--forum-platforms)
+  - [👥 Social Networks & Member Platforms](#-social-networks--member-platforms)
+  - [🌌 Decentralized & Federated Networks (Fediverse)](#-decentralized--federated-networks-fediverse)
+  - [⚡ Real-Time Chat & Collaboration](#-real-time-chat--collaboration)
+  - [📚 Knowledge Sharing, Wikis & Q&A](#-knowledge-sharing-wikis--qa)
+  - [📅 Events, Ticketing & Community Assembly](#-events-ticketing--community-assembly)
+  - [📊 Community Analytics & Intelligence](#-community-analytics--intelligence)
+  - [🔍 Search & Discovery Engines](#-search--discovery-engines)
+  - [🔔 Notifications & Messaging Infrastructure](#-notifications--messaging-infrastructure)
+  - [🔐 Identity, Authentication & Backend](#-identity-authentication--backend)
+  - [🛡️ Moderation & Community Safety](#-moderation--community-safety)
+- [🏗️ Recommended Open-Source Stacks](#-recommended-open-source-stacks)
+- [🏛️ Community Architecture & Data Model](#-community-architecture--data-model)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 Disclaimer & License](#-disclaimer--license)
+
+---
+
+## ☁️ SaaS & Hosted Community Platforms
+
+*Ranked in descending order by company valuation / estimated revenue scale.*
+
+| Platform | Company Size (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Gainsight Customer Communities](https://www.gainsight.com/)** *(inSided)* | 💰 **`$1.1B+` Valuation** (Acquired by Vista Equity) · **`~$200M+ ARR`** | Enterprise B2B customer community hub integrating product ideation, peer support, knowledge base, and customer success workflows. | ~$1,250/month (~$15,000/year billed annually) for Professional Plan | No permanent free plan; customized demo sandbox environment provided during sales evaluation (includes 3 admin seats, ideation portal, and CRM integrations) |
+| **[Khoros Communities](https://khoros.com/platform/communities)** | 💰 **`~$500M+` Valuation** (Acquired by IgniteTech / ESW) · **`~$100M–$350M ARR`** | Enterprise-grade digital care and customer community software supporting high-volume discussion boards, peer-to-peer support, and deep analytics. | ~$6,250/month (~$75,000/year billed annually) for mid-market/enterprise deployments | No permanent free plan; guided proof-of-concept (POC) sandbox available on sales request tailored to specific MAU and moderation volume |
+| **[Circle](https://circle.so/)** | 💰 **`~$250M` Valuation** · **`~$68M ARR`** ($30M+ funding) | Modern all-in-one community platform for creators, brands, and startups combining discussions, spaces, courses, live streams, paywalls, and event calendars. | $89/month (billed annually) or $99/month (billed monthly) for Professional Plan | 14-day free trial (no credit card required; full access to explore discussions, spaces, paywalls, and member management) |
+| **[Higher Logic Thrive](https://www.higherlogic.com/)** | 💰 **`~$200M+` Est. Valuation** · **`~$68M+ ARR`** ($55M funding) | Dedicated member engagement and community platform purpose-built for associations, nonprofits, and professional membership organizations. | ~$750/month ($9,000/year billed annually) for entry-level association packages | No permanent free plan; sandbox test environment available during sales evaluation / demo for community and automated email workflows |
+| **[Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)** *(Vanilla Forums)* | 💰 **`~$200M+` Est. Valuation** (Higher Logic Group) · **`~$68M+ ARR`** | Cloud-based customer community and enterprise support forum platform offering discussions, Q&A, knowledge base, gamification, and moderation. | ~$2,000/month ($24,000/year billed annually) for Essential Plan (entry packages start ~$750/month or $9,000/year) | No permanent free plan; interactive demo sandbox evaluation provided upon sales request (includes 1 staging site, knowledge base, and moderation tools) |
+| **[Discourse (Hosted)](https://www.discourse.org/)** | 💰 **`~$100M+` Est. Valuation** · **`~$35M+ ARR`** ($21M funding) | Fully managed cloud hosting for Discourse discussion forums, topics, categories, trust levels, moderation, search, notifications, and real-time chat. | $0/month (Free Plan); paid Pro plan starts at $100/month | Free forever plan (includes unlimited members, unlimited chat channels, 2 staff/admin seats, pre-configured social logins, hosted on `yourname.discourse.group`) |
+| **[Hivebrite](https://hivebrite.com/)** | 💰 **`~$90M+` Est. Valuation** · **`~$22M–$26M ARR`** ($58.9M funding) | Scalable community engagement portal specialized for alumni networks, professional associations, universities, and corporate groups. | $895/month (billed annually at ~$10,740/year) for Core Plan | No permanent free plan; demo sandbox environment provided on discovery call (covers unlimited members, event ticketing, directory, and job boards) |
+| **[Common Room](https://www.commonroom.io/)** | 💰 **`~$60M+` Est. Valuation** · **`~$15M–$17M ARR`** ($52.9M funding) | Community intelligence and customer engagement platform aggregating signals across forums, social channels, code repositories, and product usage. | $2,100/month (billed annually at $25,200/year) for Essential Plan | No permanent free plan; guided trial/pilot on demo request (Essential tier includes 5 seats, up to 100,000 tracked contacts, and monthly AI enrichment credits) |
+| **[Mighty Networks](https://www.mightynetworks.com/)** | 💰 **`~$50M+` Est. Valuation** · **`~$8.6M–$12M ARR`** ($67.9M funding) | Creator and business community platform uniting member feeds, courses, events, memberships, live streaming, and native iOS/Android mobile apps. | $29/month (billed annually) or $35/month (billed monthly) for Explore Plan | 14-day free trial (no credit card required; access to Growth plan features including courses, events, and community building) |
+| **[Bettermode](https://bettermode.com/)** *(formerly Tribe)* | 💰 **`~$25M+` Est. Valuation** · **`~$3.1M–$7M ARR`** ($7.5M funding) | Modular customer community and engagement platform with customizable spaces, posts, discussions, embeddable widgets, and developer APIs. | $399/month (billed annually) or $499/month (billed monthly) for Starter Plan | 14-day free trial (full access to Starter plan features including custom spaces, posts, moderation, and member onboarding) |
+| **[Geneva](https://www.geneva.com/)** | 💰 **`$17M` Valuation** (Acquired by Bumble) · $26.5M funding | All-in-one group and community communication app combining chat rooms, forum posts, voice/video lounges, calendars, and broadcast channels. | $0/month (100% Free core platform) | Free forever with unlimited rooms, unlimited members, unlimited audio/video calls, event calendar, and zero ads |
 
-# Top Community Platform Ecosystem
+---
+
+## 💻 Open-Source GitHub Projects
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Online Communities, Discussion Forums, Customer Communities, Developer Communities, Knowledge Sharing, Member Engagement, Events, Social Networking & Community Analytics*  
-**Last updated: August 2026**
+*Sorted in descending order by GitHub Stars ⭐ within each specialized category.*
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Community Platforms**. These tools help organizations build branded online communities for customers, members, employees, developers, creators, learners, partners, and professional groups.
+### 💬 Full Community & Forum Platforms
 
-Community platforms typically provide **discussion forums, member profiles, groups, feeds, comments, reactions, direct messaging, moderation, knowledge bases, events, newsletters, notifications, gamification, search, integrations, analytics and community-management workflows**.
+- **[Discourse](https://github.com/discourse/discourse)** [![GitHub stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers) — The gold standard in open-source discussion forums. Built with Ruby on Rails and Ember.js; features trust levels, moderation, categorization, notifications, full-text search, plugins, and REST APIs.
+- **[Forem](https://github.com/forem/forem)** [![GitHub stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers) — Open-source community publishing platform empowering DEV.to and CodeNewbie. Provides feeds, posts, comments, reactions, tags, moderation, and podcasts.
+- **[NodeBB](https://github.com/NodeBB/NodeBB)** [![GitHub stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers) — Modern Node.js forum software with real-time streaming notifications, chat, custom themes, plugin architecture, and Redis/MongoDB database backends.
+- **[Flarum](https://github.com/flarum/framework)** [![GitHub stars](https://img.shields.io/github/stars/flarum/framework?style=social&color=white)](https://github.com/flarum/framework/stargazers) — Lightweight, ultra-fast PHP/Mithril.js discussion platform designed for simplicity, mobile elegance, and modular extensions.
+- **[Misago](https://github.com/rafalp/Misago)** [![GitHub stars](https://img.shields.io/github/stars/rafalp/Misago?style=social&color=white)](https://github.com/rafalp/Misago/stargazers) — Modern open-source Python & Django discussion board platform with user permissions, threads, categories, profiles, and API support.
+- **[phpBB](https://github.com/phpbb/phpbb)** [![GitHub stars](https://img.shields.io/github/stars/phpbb/phpbb?style=social&color=white)](https://github.com/phpbb/phpbb/stargazers) — Battle-tested, mature PHP forum software with an extensive ecosystem of styles, extensions, permission systems, and user group management.
+- **[Talkyard](https://github.com/debiki/talkyard)** [![GitHub stars](https://img.shields.io/github/stars/debiki/talkyard?style=social&color=white)](https://github.com/debiki/talkyard/stargazers) — Multi-purpose open-source community platform combining classic forum discussions, StackOverflow-style Q&A, and blog comments.
+- **[MyBB](https://github.com/mybb/mybb)** [![GitHub stars](https://img.shields.io/github/stars/mybb/mybb?style=social&color=white)](https://github.com/mybb/mybb/stargazers) — Free and open-source PHP bulletin board package with comprehensive administration, templating, and plugin support.
 
-**Examples** include Circle, Mighty Networks, Discourse, Bettermode, Higher Logic, Vanilla Forums, Hivebrite, Tribe, Common Room, Geneva, Higher Logic Vanilla, Khoros Communities and Gainsight Community (the category leaders).
+---
 
-**Open-source emphasis**: This section is heavily expanded with major active **open-source forum engines, community platforms, social-networking frameworks, knowledge-sharing systems, real-time communication projects and self-hostable community infrastructure**.
+### 👥 Social Networks & Member Platforms
 
-The open-source community-platform ecosystem is particularly strong compared with many other enterprise-software categories. Projects such as **Discourse, NodeBB, Flarum, Forem, Lemmy, Misago, HumHub, Open Social, Elgg, phpBB, MyBB, Vanilla Forums, Talkyard, Friendica, Mastodon and Matrix** can be used as foundations for different types of community products.
+- **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) — Leading open-source Headless CMS for powering community content, member profiles, event listings, and mobile APIs.
+- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) — Open-source publishing and membership platform for independent creators, newsletters, community subscriptions, and paid access.
+- **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) — Instant REST and GraphQL data engine for any SQL database; perfect for powering custom community apps, member dashboards, and activity feeds.
+- **[HumHub](https://github.com/humhub/humhub)** [![GitHub stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers) — Flexible open-source social network kit written in PHP (Yii framework), built for organizations, social intranets, clubs, and co-working spaces.
+- **[Drupal](https://github.com/drupal/drupal)** [![GitHub stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers) — Enterprise content and community framework powering large-scale member portals, Open Social distributions, and organizational intranets.
+- **[WordPress Develop](https://github.com/WordPress/wordpress-develop)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/wordpress-develop?style=social&color=white)](https://github.com/WordPress/wordpress-develop/stargazers) — Foundation for community-driven portals when combined with plugins like BuddyPress, bbPress, and MemberPress.
+- **[Elgg](https://github.com/Elgg/Elgg)** [![GitHub stars](https://img.shields.io/github/stars/Elgg/Elgg?style=social&color=white)](https://github.com/Elgg/Elgg/stargazers) — Award-winning open-source social engine offering activity streams, user profiles, groups, access controls, and RESTful web services.
+- **[BuddyPress](https://github.com/buddypress/buddypress)** [![GitHub stars](https://img.shields.io/github/stars/buddypress/buddypress?style=social&color=white)](https://github.com/buddypress/buddypress/stargazers) — Social networking component suite for WordPress adding user profiles, activity streams, user groups, and private messaging.
 
-**[Discourse](https://github.com/discourse/discourse)** is one of the strongest open-source community-platform choices. It provides discussion forums, topics, categories, trust levels, moderation, notifications, search, private messaging, plugins and extensive community-management functionality.
+---
 
-**[NodeBB](https://github.com/NodeBB/NodeBB)** is a modern open-source forum platform built around Node.js, providing real-time discussions, notifications, chat, plugins, themes and integrations.
+### 🌌 Decentralized & Federated Networks (Fediverse)
 
-**[Flarum](https://github.com/flarum/framework)** provides a lightweight, extensible open-source discussion platform with a modern interface and extension ecosystem.
+- **[Mastodon](https://github.com/mastodon/mastodon)** [![GitHub stars](https://img.shields.io/github/stars/mastodon/mastodon?style=social&color=white)](https://github.com/mastodon/mastodon/stargazers) — The premier open-source, decentralized microblogging network powered by ActivityPub.
+- **[PeerTube](https://github.com/Chocobozzz/PeerTube)** [![GitHub stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social&color=white)](https://github.com/Chocobozzz/PeerTube/stargazers) — Federated, ActivityPub-compatible video streaming platform for creator-led video communities.
+- **[Lemmy](https://github.com/LemmyNet/lemmy)** [![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social&color=white)](https://github.com/LemmyNet/lemmy/stargazers) — Federated Reddit alternative built in Rust and Actix. Supports link aggregation, discussions, voting, and cross-instance federation.
+- **[Misskey](https://github.com/misskey-dev/misskey)** [![GitHub stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=social&color=white)](https://github.com/misskey-dev/misskey/stargazers) — Interconnected, highly customizable decentralized social platform with rich reactions, drive storage, and emoji integration.
+- **[Friendica](https://github.com/friendica/friendica)** [![GitHub stars](https://img.shields.io/github/stars/friendica/friendica?style=social&color=white)](https://github.com/friendica/friendica/stargazers) — Decentralized communications platform connecting users across ActivityPub, Diaspora, and Bluesky.
 
-**[Forem](https://github.com/forem/forem)** is an open-source platform for building community-driven discussion and publishing sites, originally associated with the DEV community ecosystem.
+---
 
-**[HumHub](https://github.com/humhub/humhub)** is an open-source social-networking platform particularly suited to private communities, employee communities, organizations, associations and collaborative groups.
+### ⚡ Real-Time Chat & Collaboration
 
-**[Open Social](https://www.drupal.org/project/social)** provides an open-source community platform built on Drupal, with groups, events, profiles, discussions and social functionality.
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) — Enterprise open-source communications platform with channels, direct messaging, video meetings, omnichannel customer chat, and matrix federation.
+- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) — Open-source collaboration platform for developer workflows, playbooks, boards, channels, and secure group communications.
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) — 100% open-source video conferencing solution for community webinars, live office hours, and virtual meetups.
+- **[Zulip](https://github.com/zulip/zulip)** [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) — Thread-based team chat platform combining real-time messaging with the organized permanence of email threads.
+- **[Element Web](https://github.com/element-hq/element-web)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) — Flagship Matrix web client supporting end-to-end encrypted chats, rooms, communities, and voice/video spaces.
+- **[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) — Reference Matrix home server implementation enabling secure, decentralized communication networks.
+- **[Revolt](https://github.com/revoltchat/backend)** [![GitHub stars](https://img.shields.io/github/stars/revoltchat/backend?style=social&color=white)](https://github.com/revoltchat/backend/stargazers) — Open-source, user-first Discord alternative built for community servers, voice channels, and bot integrations.
+- **[VoceChat](https://github.com/Privoce/VoceChat-Web)** [![GitHub stars](https://img.shields.io/github/stars/Privoce/VoceChat-Web?style=social&color=white)](https://github.com/Privoce/VoceChat-Web/stargazers) — Lightweight, embeddable community chat widget suitable for personal blogs, docs, and independent websites.
 
-**[Lemmy](https://github.com/LemmyNet/lemmy)** provides a decentralized, federated discussion platform similar in concept to Reddit and is particularly interesting for large public communities.
+---
 
-**[Mastodon](https://github.com/mastodon/mastodon)** provides decentralized social-networking infrastructure that can be adapted for community-centric social platforms.
+### 📚 Knowledge Sharing, Wikis & Q&A
 
-**[Matrix](https://github.com/matrix-org/matrix-spec)** provides an open standard and ecosystem for decentralized, interoperable real-time communication and can form the messaging layer of a broader community platform.
+- **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) — Fast, modern, collaborative knowledge base and documentation platform built with React and Node.js.
+- **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) — Feature-rich, modern Node.js wiki app with Markdown/WYSIWYG editors, search engines, and multi-cloud sync.
+- **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) — Modern open-source collaborative wiki and documentation software for knowledge management.
+- **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers) — Simple, self-hosted documentation platform with an intuitive book/chapter/page organization system.
+- **[Answer](https://github.com/answerdev/answer)** [![GitHub stars](https://img.shields.io/github/stars/answerdev/answer?style=social&color=white)](https://github.com/answerdev/answer/stargazers) — Modern Q&A community platform in Go for developer knowledge sharing, user troubleshooting, and peer support.
+- **[MediaWiki](https://github.com/wikimedia/mediawiki)** [![GitHub stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=social&color=white)](https://github.com/wikimedia/mediawiki/stargazers) — The software behind Wikipedia; designed for massive, collaborative open-knowledge repositories.
+- **[Documize](https://github.com/documize/community)** [![GitHub stars](https://img.shields.io/github/stars/documize/community?style=social&color=white)](https://github.com/documize/community/stargazers) — Enterprise document and knowledge platform combining rich media, templates, and analytics.
 
-**[Element](https://github.com/element-hq/element-web)** provides an open-source Matrix client with rooms, direct messaging, communities/spaces and collaboration capabilities.
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites or GitHub repositories.
+### 📅 Events, Ticketing & Community Assembly
 
-## Table of Contents
+- **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) — Open-source scheduling infrastructure for community 1-on-1 office hours, mentoring sessions, and group events.
+- **[Pretix](https://github.com/pretix/pretix)** [![GitHub stars](https://img.shields.io/github/stars/pretix/pretix?style=social&color=white)](https://github.com/pretix/pretix/stargazers) — Comprehensive event ticketing, registration, and seating system for community conferences and gatherings.
+- **[Decidim](https://github.com/decidim/decidim)** [![GitHub stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers) — Participatory democracy and civic engagement framework for citizen assemblies, proposals, voting, and consultations.
+- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)** [![GitHub stars](https://img.shields.io/github/stars/OpenSlides/OpenSlides?style=social&color=white)](https://github.com/OpenSlides/OpenSlides/stargazers) — Assembly and plenary meeting management platform with agenda, motions, elections, and voting.
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Additional Strong Open-Source Options](#additional-strong-open-source-options)
-- [Recommended Open-Source Community Stack](#recommended-open-source-community-stack)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## SaaS/Hosted Platforms
+### 📊 Community Analytics & Intelligence
 
-| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **[Circle](https://circle.so/)** | Community platform for creators, brands, and businesses combining discussions, spaces, courses, live events, paywalls, and member management. | $89/month (billed annually) or $99/month (billed monthly) for Professional Plan | 14-day free trial (no credit card required; full access to explore discussions, spaces, paywalls, and member management) |
-| **[Mighty Networks](https://www.mightynetworks.com/)** | Community platform uniting member communities, courses, events, content feeds, memberships, live streaming, and native mobile apps. | $29/month (billed annually) or $35/month (billed monthly) for Explore Plan | 14-day free trial (no credit card required; access to Growth plan features including courses, events, and community building) |
-| **[Discourse (Hosted)](https://www.discourse.org/)** | Fully managed cloud hosting for Discourse discussion forums, topics, categories, trust levels, moderation, search, notifications, and chat. | $0/month (Free Plan); paid Pro plan starts at $100/month | Free forever plan (includes unlimited members, unlimited chat channels, 2 staff/admin seats, pre-configured social logins, hosted on `yourname.discourse.group`) |
-| **[Bettermode](https://bettermode.com/)** *(formerly Tribe)* | Modular customer community and engagement platform with customizable spaces, posts, discussions, embeddable widgets, and developer APIs. | $399/month (billed annually) or $499/month (billed monthly) for Starter Plan | 14-day free trial (full access to Starter plan features including custom spaces, posts, moderation, and member onboarding) |
-| **[Geneva](https://www.geneva.com/)** | All-in-one group and community communication app combining chat rooms, forum posts, voice/video lounges, calendars, and broadcast channels. | $0/month (100% Free core platform) | Free forever with unlimited rooms, unlimited members, unlimited audio/video calls, event calendar, and zero ads |
-| **[Common Room](https://www.commonroom.io/)** | Community intelligence and customer engagement platform aggregating signals across forums, social channels, code repositories, and product usage. | $2,100/month (billed annually at $25,200/year) for Essential Plan | No free-forever plan; guided trial/pilot on demo request (Essential tier includes 5 seats, up to 100,000 tracked contacts, and monthly AI enrichment credits) |
-| **[Hivebrite](https://hivebrite.com/)** | Enterprise community management platform specialized for alumni networks, professional associations, universities, and corporate groups. | $895/month (billed annually at ~$10,740/year) for Core Plan | No self-serve free plan; demo sandbox environment provided on discovery call (covers unlimited members, event ticketing, directory, and job boards) |
-| **[Higher Logic Thrive](https://www.higherlogic.com/)** | Member engagement and community platform purpose-built for associations, professional societies, and member-based organizations. | ~$750/month ($9,000/year billed annually) for entry-level association packages | No self-serve free plan; sandbox test environment available during sales evaluation / demo for community and automated email workflows |
-| **[Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)** *(Vanilla Forums)* | Cloud-based customer community and support forum solution offering discussions, knowledge base, gamification, and moderation. | ~$2,000/month ($24,000/year billed annually) for Essential Plan (smaller deployments start ~$750/month or $9,000/year) | No self-serve free plan; interactive demo sandbox evaluation provided upon sales request (includes 1 staging site, knowledge base, and moderation tools) |
-| **[Khoros Communities](https://khoros.com/platform/communities)** | Enterprise customer community and digital care platform supporting high-volume discussion forums, peer support, and deep customer analytics. | ~$6,250/month (~$75,000/year billed annually) for mid-market/enterprise deployments | No self-serve free plan; guided proof-of-concept (POC) sandbox available on sales request tailored to specific MAU and moderation volume |
-| **[Gainsight Customer Communities](https://www.gainsight.com/)** *(formerly inSided)* | B2B customer community platform integrating product ideation, peer support, knowledge base, and customer success workflows. | ~$1,250/month (~$15,000/year billed annually) for Professional Plan | No self-serve free plan; custom demo sandbox environment provided during sales evaluation (includes 3 admin seats, ideation portal, and CRM integrations) |
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) — All-in-one platform for product and community analytics, session recording, feature flags, surveys, and funnels.
+- **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) — Lightweight, privacy-focused, cookie-free analytics for community blogs, portals, and landing pages.
+- **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) — Simple, open-source, GDPR-compliant web analytics providing intuitive dashboards for community pageviews.
+- **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers) — Full-featured Google Analytics alternative giving 100% data ownership for member behavior tracking.
+- **[Countly](https://github.com/Countly/countly-server)** [![GitHub stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers) — Real-time mobile and web product analytics with push notification campaign integration.
 
-## Open-Source GitHub Projects
+---
 
-> **Note:** The projects below are not all direct Circle/Mighty Networks/Khoros equivalents. They cover different parts of the community ecosystem, including discussion forums, social networks, decentralized communities, knowledge sharing, chat, real-time communication, events and community infrastructure.
+### 🔍 Search & Discovery Engines
 
-### Full Community / Forum Platforms
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) — Lightning-fast, typo-tolerant search engine built in Rust; perfect for indexing forum topics, user directories, and articles.
+- **[Typesense](https://github.com/typesense/typesense)** [![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers) — Blazing-fast, typo-tolerant open-source search engine optimized for developer-friendly community search experiences.
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers) — Distributed search and analytics suite offering scalable full-text indexing, vector search, and observability.
+- **[Apache Solr](https://github.com/apache/solr)** [![GitHub stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers) — Highly reliable, scalable enterprise search engine built on Apache Lucene.
 
-- **[Discourse](https://github.com/discourse/discourse)**  
-  **Open-source community discussion platform — strongest overall candidate.**  
-  Mature Ruby on Rails community platform supporting discussions, categories, tags, private messages, trust levels, moderation, notifications, search, badges, plugins, themes and extensive community-management functionality.
+---
 
-- **[NodeBB](https://github.com/NodeBB/NodeBB)**  
-  **Modern open-source forum platform.**  
-  Node.js-based community software with real-time discussions, notifications, chat, user profiles, plugins, themes, reputation and social interactions.
+### 🔔 Notifications & Messaging Infrastructure
 
-- **[Flarum](https://github.com/flarum/framework)**  
-  **Lightweight open-source discussion platform.**  
-  Modern PHP-based forum framework designed for speed, simplicity and extensibility through an extensive extension ecosystem.
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) — Unified open-source notification infrastructure powering email, SMS, push, in-app feed, and chat notifications for community members.
+- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) — HTTP-based pub-sub push notification service for self-hosted community alerts and moderator pings.
+- **[Apprise](https://github.com/caronc/apprise)** [![GitHub stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers) — Push notification library supporting 80+ notification services including Discord, Telegram, Slack, and Matrix.
+- **[Gotify](https://github.com/gotify/server)** [![GitHub stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers) — Simple server for sending and receiving push notifications via WebSockets with an Android client.
 
-- **[Forem](https://github.com/forem/forem)**  
-  **Open-source community publishing platform.**  
-  Provides posts, comments, reactions, profiles, feeds, tags, moderation and community interaction. Particularly suitable for developer and knowledge-sharing communities.
+---
 
-- **[Misago](https://github.com/rafalp/Misago)**  
-  **Open-source Django forum platform.**  
-  Provides discussions, categories, user profiles, moderation, private messaging, permissions and community-management features.
+### 🔐 Identity, Authentication & Backend
 
-- **[Talkyard](https://github.com/debiki/talkyard)**  
-  **Open-source discussion and Q&A platform.**  
-  Combines forum discussions, Q&A, comments and knowledge-sharing capabilities.
+- **[Supabase](https://github.com/supabase/supabase)** [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) — The open-source Firebase alternative with Postgres, realtime subscriptions, authentication, storage, and auto-generated APIs.
+- **[Appwrite](https://github.com/appwrite/appwrite)** [![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers) — Complete backend-as-a-service providing auth, database, cloud functions, and real-time messaging for web/mobile community apps.
+- **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) — Industry-standard Identity and Access Management (IAM) supporting OpenID Connect, OAuth 2.0, SAML 2.0, and SSO across community tools.
+- **[Authentik](https://github.com/goauthentik/authentik)** [![GitHub stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers) — Modern, flexible identity provider designed for easy integration with self-hosted Docker and Kubernetes community environments.
+- **[ORY Kratos](https://github.com/ory/kratos)** [![GitHub stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers) — Cloud-native identity, user management, and authentication system for high-scale custom community portals.
 
-- **[phpBB](https://github.com/phpbb/phpbb)**  
-  **Mature open-source forum platform.**  
-  Long-established PHP discussion software with categories, topics, user groups, moderation, permissions and extensive extensions.
+---
 
-- **[MyBB](https://github.com/mybb/mybb)**  
-  **Open-source PHP forum platform.**  
-  Provides threads, posts, private messages, profiles, moderation, user groups, themes and plugins.
+### 🛡️ Moderation & Community Safety
 
-- **[Vanilla Forums Open Source](https://github.com/vanilla/vanilla)**  
-  **Open-source community/forum platform.**  
-  Provides discussion, moderation, user management, reputation and extensibility. The open-source project and commercial Higher Logic Vanilla offering should be distinguished.
+- **[Detoxify](https://github.com/unitaryai/detoxify)** [![GitHub stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=social&color=white)](https://github.com/unitaryai/detoxify/stargazers) — Open-source deep-learning toxicity detection models for identifying abuse, insults, and harassment in community posts.
 
-### Social Network & Member Community Platforms
+---
 
-- **[HumHub](https://github.com/humhub/humhub)**  
-  **Open-source social-networking platform.**  
-  Provides user profiles, spaces, streams, posts, comments, groups, notifications, files, permissions and collaboration features. Particularly suitable for private organizations and member networks.
+## 🏗️ Recommended Open-Source Stacks
 
-- **[Elgg](https://github.com/Elgg/Elgg)**  
-  **Open-source social networking framework.**  
-  Provides profiles, activity streams, groups, blogs, discussions, messaging and extensibility for building custom social/community applications.
+For organizations looking to build self-hosted alternatives to Circle, Mighty Networks, Khoros, or Bettermode, here are proven open-source architecture recipes:
 
-- **[Open Social](https://www.drupal.org/project/social)**  
-  **Open-source community platform based on Drupal.**  
-  Supports groups, profiles, discussions, events, content, notifications and member interaction. Useful for associations, NGOs, organizations and professional networks.
+### 🌟 All-Around Community Hub
+> **Discourse + Keycloak + Meilisearch + Matrix Synapse + Wiki.js + PostHog + Novu + PostgreSQL**
+- **Use Case:** Broad community forums, discussions, member messaging, docs, analytics, and notification delivery.
 
-- **[Drupal](https://github.com/drupal/drupal)**  
-  **Open-source content/community framework.**  
-  Provides users, roles, permissions, groups, content types, taxonomy, comments and an extensive module ecosystem for building custom communities.
+### 🏢 Private Professional / Employee Social Network
+> **HumHub + Authentik + OpenSearch + Element/Matrix + Matomo**
+- **Use Case:** Internal company networks, closed alumni directories, collaborative workspaces, and event calendars.
 
-- **[BuddyPress](https://github.com/buddypress/buddypress)**  
-  **Open-source WordPress social-networking plugin.**  
-  Adds member profiles, activity streams, groups, private messaging and community features to WordPress.
+### 💻 Developer & Tech Community
+> **Forem + Answer + Discourse + Docmost + PostHog + Cal.com**
+- **Use Case:** Tech publishing, articles, technical Q&A, long-form discussions, and developer office hours.
 
-- **[WordPress](https://github.com/WordPress/wordpress-develop)**  
-  **Open-source publishing platform.**  
-  With plugins such as BuddyPress and bbPress, WordPress can form the foundation of custom community, membership and discussion platforms.
+### 🌌 Decentralized / Public Fediverse Community
+> **Lemmy + Mastodon + PeerTube + Matrix + Meilisearch + ActivityPub**
+- **Use Case:** Censorship-resistant public discussions, creator video channels, microblogging, and cross-server federation.
 
-- **[bbPress](https://github.com/WordPress/bbPress)**  
-  **Open-source WordPress forum software.**  
-  Provides discussion forums, topics, replies and moderation integrated with WordPress.
+---
 
-### Decentralized & Federated Communities
-
-- **[Lemmy](https://github.com/LemmyNet/lemmy)**  
-  **Open-source federated discussion platform.**  
-  Provides communities, posts, comments, voting, moderation and federation through ActivityPub. Particularly suitable for decentralized Reddit-style communities.
-
-- **[Mastodon](https://github.com/mastodon/mastodon)**  
-  **Open-source decentralized social network.**  
-  Provides federated social networking, profiles, posts, follows, moderation and community interactions through ActivityPub.
-
-- **[Misskey](https://github.com/misskey-dev/misskey)**  
-  **Open-source federated social platform.**  
-  Provides posts, reactions, feeds, channels, messaging, profiles and ActivityPub federation.
-
-- **[Akkoma](https://akkoma.dev/AkkomaGang/akkoma)**  
-  **Open-source federated social platform.**  
-  Provides decentralized social-networking functionality compatible with the broader ActivityPub ecosystem.
-
-- **[Friendica](https://github.com/friendica/friendica)**  
-  **Open-source decentralized social-networking platform.**  
-  Provides profiles, groups, posts, private messages and interoperability with multiple decentralized social protocols.
-
-- **[PeerTube](https://github.com/Chocobozzz/PeerTube)**  
-  **Open-source decentralized video platform.**  
-  Useful as a video/community component for communities centered around video content and creator interaction.
-
-### Real-Time Chat & Community Communication
-
-- **[Matrix](https://github.com/matrix-org/matrix-spec)**  
-  **Open communication protocol.**  
-  Provides an open standard for decentralized, interoperable real-time communication. It can provide the messaging infrastructure underneath a broader community platform.
-
-- **[Element Web](https://github.com/element-hq/element-web)**  
-  **Open-source Matrix client.**  
-  Provides rooms, direct messages, spaces, voice/video communication and collaboration features.
-
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)**  
-  **Open-source communication platform.**  
-  Provides channels, direct messaging, threads, integrations, file sharing, voice/video and community-oriented communication.
-
-- **[Mattermost](https://github.com/mattermost/mattermost)**  
-  **Open-source collaboration and messaging platform.**  
-  Provides channels, threads, direct messaging, integrations and workflows suitable for private professional communities.
-
-- **[Zulip](https://github.com/zulip/zulip)**  
-  **Open-source threaded team/community communication platform.**  
-  Provides topic-based conversations, streams, private messages, integrations and powerful search.
-
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)**  
-  **Open-source video-conferencing platform.**  
-  Useful as a video-meeting layer for communities, events, office hours and member interactions.
-
-### Knowledge Sharing & Community Q&A
-
-- **[Answer](https://github.com/answerdev/answer)**  
-  **Open-source Q&A community platform.**  
-  Designed for knowledge-sharing communities with questions, answers, voting, tags, reputation and moderation.
-
-- **[Wiki.js](https://github.com/requarks/wiki)**  
-  **Open-source knowledge platform.**  
-  Provides collaborative documentation, knowledge bases, permissions, search and content management.
-
-- **[BookStack](https://github.com/BookStackApp/BookStack)**  
-  **Open-source documentation platform.**  
-  Useful for community knowledge bases, member documentation, FAQs and collaborative content.
-
-- **[Documize](https://github.com/documize/community)**  
-  **Open-source knowledge-management platform.**  
-  Provides structured documentation, knowledge sharing, search and collaborative content.
-
-- **[MediaWiki](https://github.com/wikimedia/mediawiki)**  
-  **Open-source wiki platform.**  
-  Provides collaborative knowledge creation and is suitable for large community-maintained knowledge bases.
-
-### Events & Community Activities
-
-- **[Pretix](https://github.com/prairielearn/pretext)**  
-  Open-source ticketing and event infrastructure that can be integrated into community event workflows.
-
-- **[Mobilizon](https://framagit.org/framasoft/mobilizon)**  
-  **Open-source federated events platform.**  
-  Provides event creation, calendars, groups and event discovery, making it useful for community-organized events.
-
-- **[Decidim](https://github.com/decidim/decidim)**  
-  **Open-source participatory community platform.**  
-  Provides participatory processes, proposals, meetings, discussions and community decision-making.
-
-- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)**  
-  **Open-source assembly and meeting-management platform.**  
-  Useful for associations, clubs and organizations managing formal meetings and member participation.
-
-### Community Analytics & Intelligence
-
-- **[Matomo](https://github.com/matomo-org/matomo)**  
-  **Open-source analytics platform.**  
-  Useful for understanding community traffic, content engagement, referrals and member behavior.
-
-- **[Umami](https://github.com/umami-software/umami)**  
-  **Open-source privacy-focused analytics.**  
-  Useful for lightweight community website and content analytics.
-
-- **[PostHog](https://github.com/PostHog/posthog)**  
-  **Open-source product/community analytics platform.**  
-  Provides event analytics, funnels, cohorts, retention, session replay, feature flags, surveys and experimentation that can be applied to community products.
-
-- **[Countly](https://github.com/countly/countly-server)**  
-  **Open-source analytics platform.**  
-  Provides web/mobile analytics useful for measuring community engagement, retention and feature usage.
-
-### Search & Discovery
-
-- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)**  
-  **Open-source search and analytics engine.**  
-  Useful for scalable community search, content indexing, member discovery and moderation analytics.
-
-- **[Apache Solr](https://github.com/apache/solr)**  
-  **Open-source search platform.**  
-  Useful for indexing discussions, documentation, profiles, FAQs and community content.
-
-- **[Meilisearch](https://github.com/meilisearch/meilisearch)**  
-  **Open-source search engine.**  
-  Provides fast search suitable for community posts, documentation, profiles and knowledge bases.
-
-- **[Typesense](https://github.com/typesense/typesense)**  
-  **Open-source search engine.**  
-  Useful for typo-tolerant, fast community content and member search.
-
-### Notifications & Messaging Infrastructure
-
-- **[Novu](https://github.com/novuhq/novu)**  
-  **Open-source notification infrastructure.**  
-  Provides multi-channel notifications including email, SMS, push and in-app notifications. Useful for community notifications and engagement workflows.
-
-- **[Apprise](https://github.com/caronc/apprise)**  
-  **Open-source notification library.**  
-  Supports numerous notification services and can be used to build community alerts and moderation notifications.
-
-- **[ntfy](https://github.com/binwiederhier/ntfy)**  
-  **Open-source push-notification service.**  
-  Useful for self-hosted community alerts and operational notifications.
-
-### Identity, Authentication & Membership
-
-- **[Keycloak](https://github.com/keycloak/keycloak)**  
-  **Open-source identity and access-management platform.**  
-  Provides SSO, OAuth 2.0, OpenID Connect, SAML, roles and user federation for community platforms.
-
-- **[Authentik](https://github.com/goauthentik/authentik)**  
-  **Open-source identity provider.**  
-  Useful for securing self-hosted community applications and integrating multiple identity providers.
-
-- **[ORY Kratos](https://github.com/ory/kratos)**  
-  **Open-source identity system.**  
-  Provides user registration, login, account recovery and identity-management infrastructure.
-
-### Moderation & Community Safety
-
-- **[Perspective API](https://github.com/conversationai/perspectiveapi)**  
-  Machine-learning APIs for analyzing potentially toxic or abusive content. Useful as a component in automated community moderation.
-
-- **[OpenAI Moderation alternatives / custom classifiers](https://github.com/unitaryai/detoxify)**  
-  Open-source toxicity-classification models such as Detoxify can be integrated into custom moderation pipelines.
-
-- **[Detoxify](https://github.com/unitaryai/detoxify)**  
-  Open-source toxicity detection models for identifying potentially harmful online content.
-
-## Additional Strong Open-Source Options
-
-The following projects are not necessarily complete Circle/Mighty Networks/Khoros/Bettermode replacements but can provide important components for an open-source community ecosystem:
-
-- **[Discourse](https://github.com/discourse/discourse)** for mature discussion communities.
-- **[NodeBB](https://github.com/NodeBB/NodeBB)** for real-time modern forums.
-- **[Flarum](https://github.com/flarum/framework)** for lightweight extensible forums.
-- **[Forem](https://github.com/forem/forem)** for community-driven publishing.
-- **[Misago](https://github.com/rafalp/Misago)** for Django-based communities.
-- **[Talkyard](https://github.com/debiki/talkyard)** for forums and Q&A.
-- **[phpBB](https://github.com/phpbb/phpbb)** for mature forum infrastructure.
-- **[MyBB](https://github.com/mybb/mybb)** for traditional community forums.
-- **[Vanilla Forums](https://github.com/vanilla/vanilla)** for customizable discussion communities.
-- **[HumHub](https://github.com/humhub/humhub)** for private social networks.
-- **[Elgg](https://github.com/Elgg/Elgg)** for custom social-network applications.
-- **[Open Social](https://www.drupal.org/project/social)** for associations and member communities.
-- **[BuddyPress](https://github.com/buddypress/buddypress)** for WordPress-based social communities.
-- **[bbPress](https://github.com/WordPress/bbPress)** for WordPress forums.
-- **[Drupal](https://github.com/drupal/drupal)** for highly customizable community portals.
-- **[Lemmy](https://github.com/LemmyNet/lemmy)** for federated discussion communities.
-- **[Mastodon](https://github.com/mastodon/mastodon)** for decentralized social networking.
-- **[Misskey](https://github.com/misskey-dev/misskey)** for federated social communities.
-- **[Friendica](https://github.com/friendica/friendica)** for decentralized social networking.
-- **[Akkoma](https://akkoma.dev/AkkomaGang/akkoma)** for federated communities.
-- **[PeerTube](https://github.com/Chocobozzz/PeerTube)** for decentralized video communities.
-- **[Matrix](https://github.com/matrix-org/matrix-spec)** for decentralized communication.
-- **[Element](https://github.com/element-hq/element-web)** for Matrix-based community messaging.
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** for real-time community communication.
-- **[Mattermost](https://github.com/mattermost/mattermost)** for private communities and collaboration.
-- **[Zulip](https://github.com/zulip/zulip)** for topic-based threaded communication.
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** for community video meetings.
-- **[Answer](https://github.com/answerdev/answer)** for Q&A communities.
-- **[Wiki.js](https://github.com/requarks/wiki)** for community knowledge bases.
-- **[BookStack](https://github.com/BookStackApp/BookStack)** for documentation and knowledge sharing.
-- **[MediaWiki](https://github.com/wikimedia/mediawiki)** for large collaborative knowledge bases.
-- **[Mobilizon](https://framagit.org/framasoft/mobilizon)** for community events.
-- **[Decidim](https://github.com/decidim/decidim)** for participatory communities.
-- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)** for member organizations and associations.
-- **[PostHog](https://github.com/PostHog/posthog)** for community/product engagement analytics.
-- **[Matomo](https://github.com/matomo-org/matomo)** for community website analytics.
-- **[Umami](https://github.com/umami-software/umami)** for privacy-focused analytics.
-- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** for scalable community search.
-- **[Apache Solr](https://github.com/apache/solr)** for content discovery.
-- **[Meilisearch](https://github.com/meilisearch/meilisearch)** for fast community search.
-- **[Typesense](https://github.com/typesense/typesense)** for typo-tolerant search.
-- **[Novu](https://github.com/novuhq/novu)** for multi-channel notifications.
-- **[Apprise](https://github.com/caronc/apprise)** for notification integrations.
-- **[ntfy](https://github.com/binwiederhier/ntfy)** for self-hosted push notifications.
-- **[Keycloak](https://github.com/keycloak/keycloak)** for identity and access management.
-- **[Authentik](https://github.com/goauthentik/authentik)** for self-hosted authentication.
-- **[ORY Kratos](https://github.com/ory/kratos)** for identity management.
-- **[Detoxify](https://github.com/unitaryai/detoxify)** for toxicity detection and moderation.
-
-## Recommended Open-Source Community Stack
-
-For organizations wanting to build an **open-source alternative to Circle, Mighty Networks, Bettermode, Higher Logic, Hivebrite, Khoros Communities, Gainsight Community, Geneva or Tribe**, a practical architecture could combine:
-
-**Community Core**
-
-`Discourse / NodeBB / Flarum / HumHub / Open Social`
-
-↓
-
-**Content & Knowledge**
-
-`Wiki.js / BookStack / MediaWiki`
-
-↓
-
-**Real-Time Communication**
-
-`Matrix / Element / Rocket.Chat / Mattermost`
-
-↓
-
-**Events**
-
-`Mobilizon / Custom Event Module`
-
-↓
-
-**Identity**
-
-`Keycloak / Authentik / ORY`
-
-↓
-
-**Search**
-
-`OpenSearch / Meilisearch / Typesense`
-
-↓
-
-**Notifications**
-
-`Novu / ntfy / Apprise`
-
-↓
-
-**Analytics**
-
-`PostHog / Matomo / Umami`
-
-↓
-
-**Moderation**
-
-`Custom Rules + Detoxify + Human Moderators`
-
-↓
-
-**Data**
-
-`PostgreSQL + Redis + Object Storage`
-
-↓
-
-**BI**
-
-`Metabase / Apache Superset / Grafana`
-
-A particularly strong general-purpose open-source combination is:
-
-**Discourse + Keycloak + OpenSearch + Matrix + Wiki.js + PostHog + Novu + PostgreSQL**
-
-For a **private member/community network**:
-
-**HumHub + Keycloak + OpenSearch + Matrix + Matomo**
-
-For a **developer community**:
-
-**Forem + Discourse + Wiki.js + OpenSearch + PostHog**
-
-For a **decentralized public community**:
-
-**Lemmy + Mastodon + Matrix + ActivityPub + OpenSearch**
-
-For an **association/alumni community**:
-
-**Open Social + Drupal + Keycloak + Mobilizon + Matrix + Matomo**
-
-### Suggested Community Data Model
+## 🏛️ Community Architecture & Data Model
 
 ```text
-Community
- ├── Organization
+Community Core Model
+ ├── 🏢 Organization
  │
- ├── Member
- │    ├── Profile
- │    ├── Role
- │    ├── Reputation
- │    ├── Badges
- │    ├── Interests
- │    └── Membership
+ ├── 👤 Member
+ │    ├── 📋 Profile
+ │    ├── 🎖️ Role & Permissions
+ │    ├── 📈 Reputation & Trust Levels
+ │    ├── 🏅 Badges & Gamification
+ │    ├── 🎯 Interests & Tags
+ │    └── 💳 Membership & Subscriptions
  │
- ├── Space
- │    ├── Group
- │    ├── Category
- │    ├── Topic
- │    └── Channel
+ ├── 🗂️ Space / Category
+ │    ├── 👥 Sub-Group
+ │    ├── 🏷️ Category
+ │    ├── 💬 Discussion Topic / Thread
+ │    └── ⚡ Real-Time Chat Channel
  │
- ├── Content
- │    ├── Post
- │    ├── Comment
- │    ├── Question
- │    ├── Answer
- │    ├── Article
- │    └── Media
+ ├── 📝 Content Engine
+ │    ├── ✍️ Post / Article
+ │    ├── 🗨️ Comment / Reply
+ │    ├── ❓ Question & Verified Answer
+ │    └── 🖼️ Media & File Attachments
  │
- ├── Engagement
- │    ├── Like
- │    ├── Reaction
- │    ├── Share
- │    ├── Bookmark
- │    └── Follow
+ ├── 🤝 Engagement Signals
+ │    ├── ❤️ Like / Reaction
+ │    ├── 🔄 Repost / Share
+ │    ├── 🔖 Bookmark
+ │    └── 🔔 Follow / Watch
  │
- ├── Event
- │    ├── Registration
- │    ├── Attendance
- │    └── Recording
+ ├── 📅 Events & Activities
+ │    ├── 🎫 RSVP / Registration
+ │    ├── 🎟️ Ticketing & Attendance
+ │    └── 📹 Live Stream / Recording
  │
- ├── Message
- │    ├── Direct Message
- │    ├── Chat
- │    └── Notification
+ ├── ✉️ Communications
+ │    ├── 📥 Direct Message (E2EE)
+ │    ├── 📢 Broadcast Channel
+ │    └── 🔔 Multi-channel Notification (Email/Push/SMS)
  │
- └── Moderation
-      ├── Report
-      ├── Flag
-      ├── Review
-      ├── Action
-      └── Appeal
+ └── 🛡️ Moderation & Trust
+      ├── 🚩 User Flag / Report
+      ├── 🤖 Automated AI Filter (Detoxify)
+      ├── ⚖️ Review Queue
+      ├── 🔨 Mod Action (Mute/Ban/Warn)
+      └── 📜 Dispute & Appeal
 ```
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Community-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Community-Platform&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! To suggest a new SaaS product, open-source tool, or fix existing information:
+
+1. **Fork** this repository.
+2. Create your feature branch: `git checkout -b feature/add-new-platform`.
+3. Ensure entries follow the existing markdown table or list style with factual details and official links.
+4. Commit your changes: `git commit -m "Add Awesome Community Tool"`.
+5. Push to the branch: `git push origin feature/add-new-platform`.
+6. Open a **Pull Request** and describe your contribution!
+
+Explore our master collection: [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## 📜 Disclaimer & License
+
+- **License:** Distributed under the [MIT License](LICENSE).
+- **Disclaimer:** All product names, logos, and brands are property of their respective owners. Mention of SaaS and open-source tools is for informational and educational curation purposes only.
