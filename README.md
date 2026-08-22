@@ -49,59 +49,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Circle](https://circle.so/)**  
-  Community platform for creators, brands, courses and businesses combining discussions, spaces, member profiles, events, content, memberships, payments and community engagement.
-
-- **[Mighty Networks](https://www.mightynetworks.com/)**  
-  Community platform combining member communities, courses, events, content, memberships, mobile experiences and creator monetization.
-
-- **[Discourse](https://www.discourse.org/)**  
-  Modern discussion-community platform providing forums, topics, categories, trust levels, moderation, notifications, search, private messaging and extensive customization. Discourse also has a hosted offering alongside its open-source software.
-
-- **[Bettermode](https://bettermode.com/)**  
-  Modular community platform for building branded customer, product and user communities with discussions, posts, member profiles, spaces, widgets and integrations.
-
-- **[Higher Logic](https://www.higherlogic.com/)**  
-  Community and engagement platform focused on associations, professional organizations, customer communities, member engagement, events and digital experiences.
-
-- **[Vanilla Forums / Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)**  
-  Community discussion platform focused on customer support, knowledge sharing, discussion forums, moderation, engagement and branded community experiences.
-
-- **[Hivebrite](https://hivebrite.com/)**  
-  Community platform particularly focused on alumni, professional associations, employee networks, nonprofit organizations and member communities.
-
-- **[Tribe / Bettermode](https://bettermode.com/)**  
-  Community infrastructure platform focused on embedded and branded communities, discussions, content, member profiles, spaces and integrations. Tribe evolved into the Bettermode platform.
-
-- **[Common Room](https://www.commonroom.io/)**  
-  Community intelligence platform that aggregates signals from communities, social networks, product usage and other channels to help organizations identify, engage and understand community members.
-
-- **[Geneva](https://www.geneva.com/)**  
-  Community and group-communication platform combining chat, forums, events, audio/video rooms, calendars and member interaction.
-
-- **[Khoros Communities](https://khoros.com/platform/communities)**  
-  Enterprise community platform supporting customer communities, discussion forums, knowledge sharing, moderation, engagement, analytics and digital customer experiences.
-
-- **[Gainsight Community](https://www.gainsight.com/)**  
-  Community capabilities within the Gainsight ecosystem, focused on customer engagement, peer-to-peer support, knowledge sharing and customer-success workflows.
-
-- **[Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)**  
-  Customer and member community platform focused on discussion, knowledge sharing, engagement, moderation and self-service.
-
-- **[Bettermode](https://bettermode.com/)**  
-  Modern community platform with modular spaces, posts, discussions, member profiles, reactions, notifications, APIs and embeddable community components.
-
-- **[Khoros](https://khoros.com/)**  
-  Enterprise customer-engagement ecosystem covering communities, social engagement, digital care and customer interaction.
-
-- **[Bettermode API](https://developers.bettermode.com/)**  
-  Developer-oriented community infrastructure for embedding and customizing community experiences within existing products.
-
-- **[Vanilla Forums](https://www.vanillaforums.com/)**  
-  Hosted community/forum platform with discussion, knowledge base, moderation and customer-community capabilities.
-
-- **[Higher Logic Thrive](https://www.higherlogic.com/)**  
-  Member and community engagement ecosystem supporting associations and professional organizations with community, email, automation and engagement capabilities.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Circle](https://circle.so/)** | Community platform for creators, brands, and businesses combining discussions, spaces, courses, live events, paywalls, and member management. | $89/month (billed annually) or $99/month (billed monthly) for Professional Plan | 14-day free trial (no credit card required; full access to explore discussions, spaces, paywalls, and member management) |
+| **[Mighty Networks](https://www.mightynetworks.com/)** | Community platform uniting member communities, courses, events, content feeds, memberships, live streaming, and native mobile apps. | $29/month (billed annually) or $35/month (billed monthly) for Explore Plan | 14-day free trial (no credit card required; access to Growth plan features including courses, events, and community building) |
+| **[Discourse (Hosted)](https://www.discourse.org/)** | Fully managed cloud hosting for Discourse discussion forums, topics, categories, trust levels, moderation, search, notifications, and chat. | $0/month (Free Plan); paid Pro plan starts at $100/month | Free forever plan (includes unlimited members, unlimited chat channels, 2 staff/admin seats, pre-configured social logins, hosted on `yourname.discourse.group`) |
+| **[Bettermode](https://bettermode.com/)** *(formerly Tribe)* | Modular customer community and engagement platform with customizable spaces, posts, discussions, embeddable widgets, and developer APIs. | $399/month (billed annually) or $499/month (billed monthly) for Starter Plan | 14-day free trial (full access to Starter plan features including custom spaces, posts, moderation, and member onboarding) |
+| **[Geneva](https://www.geneva.com/)** | All-in-one group and community communication app combining chat rooms, forum posts, voice/video lounges, calendars, and broadcast channels. | $0/month (100% Free core platform) | Free forever with unlimited rooms, unlimited members, unlimited audio/video calls, event calendar, and zero ads |
+| **[Common Room](https://www.commonroom.io/)** | Community intelligence and customer engagement platform aggregating signals across forums, social channels, code repositories, and product usage. | $2,100/month (billed annually at $25,200/year) for Essential Plan | No free-forever plan; guided trial/pilot on demo request (Essential tier includes 5 seats, up to 100,000 tracked contacts, and monthly AI enrichment credits) |
+| **[Hivebrite](https://hivebrite.com/)** | Enterprise community management platform specialized for alumni networks, professional associations, universities, and corporate groups. | $895/month (billed annually at ~$10,740/year) for Core Plan | No self-serve free plan; demo sandbox environment provided on discovery call (covers unlimited members, event ticketing, directory, and job boards) |
+| **[Higher Logic Thrive](https://www.higherlogic.com/)** | Member engagement and community platform purpose-built for associations, professional societies, and member-based organizations. | ~$750/month ($9,000/year billed annually) for entry-level association packages | No self-serve free plan; sandbox test environment available during sales evaluation / demo for community and automated email workflows |
+| **[Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)** *(Vanilla Forums)* | Cloud-based customer community and support forum solution offering discussions, knowledge base, gamification, and moderation. | ~$2,000/month ($24,000/year billed annually) for Essential Plan (smaller deployments start ~$750/month or $9,000/year) | No self-serve free plan; interactive demo sandbox evaluation provided upon sales request (includes 1 staging site, knowledge base, and moderation tools) |
+| **[Khoros Communities](https://khoros.com/platform/communities)** | Enterprise customer community and digital care platform supporting high-volume discussion forums, peer support, and deep customer analytics. | ~$6,250/month (~$75,000/year billed annually) for mid-market/enterprise deployments | No self-serve free plan; guided proof-of-concept (POC) sandbox available on sales request tailored to specific MAU and moderation volume |
+| **[Gainsight Customer Communities](https://www.gainsight.com/)** *(formerly inSided)* | B2B customer community platform integrating product ideation, peer support, knowledge base, and customer success workflows. | ~$1,250/month (~$15,000/year billed annually) for Professional Plan | No self-serve free plan; custom demo sandbox environment provided during sales evaluation (includes 3 admin seats, ideation portal, and CRM integrations) |
 
 ## Open-Source GitHub Projects
 
