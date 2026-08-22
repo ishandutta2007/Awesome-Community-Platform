@@ -1,55 +1,40 @@
 # Awesome-Community-Platform
 
-Markdown
-## Top Travel & Expense Management Platform Ecosystem
+# Top Community Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Corporate Travel, Expense Management, Travel Booking, Reimbursements, Spend Controls, Travel Policy, Corporate Cards, Receipts, Approvals, Mileage, Per Diem, Invoicing & Travel Analytics*  
+*Focused on Online Communities, Discussion Forums, Customer Communities, Developer Communities, Knowledge Sharing, Member Engagement, Events, Social Networking & Community Analytics*  
 **Last updated: August 2026**
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Travel & Expense (T&E) Management, Business Travel Management, Expense Management, Employee Spend Management, Corporate Travel Booking, Reimbursements, Travel Policy Enforcement, Receipt Management, Corporate Cards, Mileage, Per Diem, Approvals and Travel/Spend Analytics**.
+This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Community Platforms**. These tools help organizations build branded online communities for customers, members, employees, developers, creators, learners, partners, and professional groups.
 
-These platforms help organizations manage the employee travel and expense lifecycle, including **travel requests, approvals, flight/hotel/car/rail booking, travel policies, expense capture, receipt scanning, mileage, per diem, corporate cards, reimbursement, invoice processing, accounting integration, fraud detection, spend controls and reporting**.
+Community platforms typically provide **discussion forums, member profiles, groups, feeds, comments, reactions, direct messaging, moderation, knowledge bases, events, newsletters, notifications, gamification, search, integrations, analytics and community-management workflows**.
 
-**Examples** include SAP Concur, Navan, TravelPerk, Expensify, Emburse, Zoho Expense, Center, Routespring, Pleo and SAP Travel.
+**Examples** include Circle, Mighty Networks, Discourse, Bettermode, Higher Logic, Vanilla Forums, Hivebrite, Tribe, Common Room, Geneva, Higher Logic Vanilla, Khoros Communities and Gainsight Community (the category leaders).
 
-**[SAP Concur](https://www.concur.com/)** combines business travel and expense management, including travel booking, expense reporting, policy controls, integrations, analytics and mobile workflows. SAP describes Concur Travel as allowing companies to manage employee travel spend and Concur Expense as helping businesses manage employee spend. ([SAP Concur](https://www.concur.com/))
+**Open-source emphasis**: This section is heavily expanded with major active **open-source forum engines, community platforms, social-networking frameworks, knowledge-sharing systems, real-time communication projects and self-hostable community infrastructure**.
 
-**[Navan](https://navan.com/)** combines business travel and corporate expense management with centralized booking, payments, expense workflows, policy controls and travel/spend visibility.
+The open-source community-platform ecosystem is particularly strong compared with many other enterprise-software categories. Projects such as **Discourse, NodeBB, Flarum, Forem, Lemmy, Misago, HumHub, Open Social, Elgg, phpBB, MyBB, Vanilla Forums, Talkyard, Friendica, Mastodon and Matrix** can be used as foundations for different types of community products.
 
-**[TravelPerk](https://www.travelperk.com/)** focuses on business travel booking and management, combining travel inventory, policy controls, reporting and travel administration.
+**[Discourse](https://github.com/discourse/discourse)** is one of the strongest open-source community-platform choices. It provides discussion forums, topics, categories, trust levels, moderation, notifications, search, private messaging, plugins and extensive community-management functionality.
 
-**[Expensify](https://www.expensify.com/)** provides expense reporting, receipt capture, corporate cards, reimbursement and accounting integrations.
+**[NodeBB](https://github.com/NodeBB/NodeBB)** is a modern open-source forum platform built around Node.js, providing real-time discussions, notifications, chat, plugins, themes and integrations.
 
-**[Emburse](https://www.emburse.com/)** provides a portfolio of expense, travel, payments and spend-management products for businesses.
+**[Flarum](https://github.com/flarum/framework)** provides a lightweight, extensible open-source discussion platform with a modern interface and extension ecosystem.
 
-**[Zoho Expense](https://www.zoho.com/expense/)** provides expense reporting, receipt capture, approvals, travel management, mileage, corporate cards and accounting integrations.
+**[Forem](https://github.com/forem/forem)** is an open-source platform for building community-driven discussion and publishing sites, originally associated with the DEV community ecosystem.
 
-**[Center](https://www.center.app/)** combines corporate cards, expense management, spend controls and automated expense workflows.
+**[HumHub](https://github.com/humhub/humhub)** is an open-source social-networking platform particularly suited to private communities, employee communities, organizations, associations and collaborative groups.
 
-**[RouteSpring](https://routespring.com/)** provides business travel management focused on booking, travel policies, approvals, traveler support and expense visibility.
+**[Open Social](https://www.drupal.org/project/social)** provides an open-source community platform built on Drupal, with groups, events, profiles, discussions and social functionality.
 
-**[Pleo](https://www.pleo.io/)** combines company cards with expense management, receipt capture, reimbursement and spend visibility.
+**[Lemmy](https://github.com/LemmyNet/lemmy)** provides a decentralized, federated discussion platform similar in concept to Reddit and is particularly interesting for large public communities.
 
-**Open-source emphasis**: This repository deliberately gives substantial attention to **open-source and self-hostable alternatives**.
+**[Mastodon](https://github.com/mastodon/mastodon)** provides decentralized social-networking infrastructure that can be adapted for community-centric social platforms.
 
-A complete open-source one-to-one replacement for SAP Concur, Navan or TravelPerk is still uncommon. The open-source ecosystem is much stronger when **expense management, accounting, personal-finance infrastructure, time/mileage tracking, travel planning, booking infrastructure, workflow automation and analytics** are combined.
+**[Matrix](https://github.com/matrix-org/matrix-spec)** provides an open standard and ecosystem for decentralized, interoperable real-time communication and can form the messaging layer of a broader community platform.
 
-**[ERPNext](https://github.com/frappe/erpnext)** is one of the strongest open-source foundations for a custom T&E system because it provides accounting, expense claims, employees, payments, projects, purchasing and financial reporting.
-
-**[Odoo Community](https://github.com/odoo/odoo)** provides an extensive open-source ERP foundation that can be extended with employee expenses, accounting, approvals, travel-related workflows and custom travel-booking integrations.
-
-**[Akaunting](https://github.com/akaunting/akaunting)** provides open-source accounting and expense-management infrastructure suitable for smaller organizations and custom employee-spend workflows.
-
-**[Firefly III](https://github.com/firefly-iii/firefly-iii)** is a self-hosted open-source personal-finance manager with transactions, budgets, categories, rules and reporting. It is not a corporate T&E platform but can provide useful financial-accounting building blocks.
-
-**[Kimai](https://github.com/kimai/kimai)** provides open-source time tracking, rates, expenses and invoicing capabilities that can be useful for travel-time, billable-expense and project-related workflows.
-
-**[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)** provides open-source multimodal trip-planning infrastructure using transit, walking, cycling and other routing data. It can serve as a travel-planning component rather than a complete corporate T&E platform.
-
-**[LibreBooking](https://github.com/LibreBooking/librebooking)** provides open-source resource reservation and scheduling capabilities that can be adapted for company vehicles, rooms and other travel-related resources.
-
-**Open-source emphasis**: Rather than incorrectly labeling general accounting or travel-planning applications as complete Concur equivalents, this repository distinguishes between **complete T&E platforms**, **expense-management systems**, **travel infrastructure**, **financial-management systems**, and **building blocks for a self-hosted T&E platform**.
+**[Element](https://github.com/element-hq/element-web)** provides an open-source Matrix client with rooms, direct messaging, communities/spaces and collaboration capabilities.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites or GitHub repositories.
 
@@ -58,985 +43,494 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [Additional Strong Open-Source Options](#additional-strong-open-source-options)
-- [Recommended Open-Source Travel & Expense Stack](#recommended-open-source-travel--expense-stack)
+- [Recommended Open-Source Community Stack](#recommended-open-source-community-stack)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
 
-- **[SAP Concur](https://www.concur.com/)**  
-  Enterprise travel and expense platform combining travel booking, expense reporting, travel policies, approvals, receipt capture, spend visibility, analytics and integrations. Concur Travel supports trip planning and booking across flights, hotels, cars and rail, while Concur Expense manages employee spending and expense reporting.
+- **[Circle](https://circle.so/)**  
+  Community platform for creators, brands, courses and businesses combining discussions, spaces, member profiles, events, content, memberships, payments and community engagement.
 
-- **[Navan](https://navan.com/)**  
-  Integrated corporate travel and expense platform combining travel booking, corporate cards, expense management, approvals, policy enforcement, payments and travel/spend analytics.
+- **[Mighty Networks](https://www.mightynetworks.com/)**  
+  Community platform combining member communities, courses, events, content, memberships, mobile experiences and creator monetization.
 
-- **[TravelPerk](https://www.travelperk.com/)**  
-  Business travel management platform providing corporate travel booking, travel inventory, policy management, reporting, traveler support and expense-related capabilities.
+- **[Discourse](https://www.discourse.org/)**  
+  Modern discussion-community platform providing forums, topics, categories, trust levels, moderation, notifications, search, private messaging and extensive customization. Discourse also has a hosted offering alongside its open-source software.
 
-- **[Expensify](https://www.expensify.com/)**  
-  Expense-management platform focused on receipt scanning, expense reports, reimbursements, corporate cards, approvals and accounting integrations.
+- **[Bettermode](https://bettermode.com/)**  
+  Modular community platform for building branded customer, product and user communities with discussions, posts, member profiles, spaces, widgets and integrations.
 
-- **[Emburse](https://www.emburse.com/)**  
-  Travel, expense, payments and spend-management software portfolio supporting expense reporting, corporate cards, travel and payment workflows.
+- **[Higher Logic](https://www.higherlogic.com/)**  
+  Community and engagement platform focused on associations, professional organizations, customer communities, member engagement, events and digital experiences.
 
-- **[Zoho Expense](https://www.zoho.com/expense/)**  
-  Expense-management platform providing receipt capture, expense reports, approvals, mileage, per diem, travel management, corporate cards and accounting integrations.
+- **[Vanilla Forums / Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)**  
+  Community discussion platform focused on customer support, knowledge sharing, discussion forums, moderation, engagement and branded community experiences.
 
-- **[Center](https://www.center.app/)**  
-  Corporate-card and expense-management platform combining cards, expense capture, automated coding, approvals, spend controls and accounting workflows.
+- **[Hivebrite](https://hivebrite.com/)**  
+  Community platform particularly focused on alumni, professional associations, employee networks, nonprofit organizations and member communities.
 
-- **[RouteSpring](https://routespring.com/)**  
-  Corporate travel-management platform supporting travel booking, travel policies, approvals, traveler support and centralized business-travel administration.
+- **[Tribe / Bettermode](https://bettermode.com/)**  
+  Community infrastructure platform focused on embedded and branded communities, discussions, content, member profiles, spaces and integrations. Tribe evolved into the Bettermode platform.
 
-- **[Pleo](https://www.pleo.io/)**  
-  Employee spending platform combining corporate cards, expense management, receipt capture, reimbursements, approvals and spend visibility.
+- **[Common Room](https://www.commonroom.io/)**  
+  Community intelligence platform that aggregates signals from communities, social networks, product usage and other channels to help organizations identify, engage and understand community members.
 
-- **[SAP Travel](https://www.sap.com/products/financial-management/travel-and-expense-management.html)**  
-  SAP's broader travel-management ecosystem integrated with SAP financial systems and SAP Concur capabilities.
+- **[Geneva](https://www.geneva.com/)**  
+  Community and group-communication platform combining chat, forums, events, audio/video rooms, calendars and member interaction.
 
-- **[Ramp](https://ramp.com/)**  
-  Corporate spend platform combining corporate cards, expense management, travel, reimbursements, procurement and financial automation.
+- **[Khoros Communities](https://khoros.com/platform/communities)**  
+  Enterprise community platform supporting customer communities, discussion forums, knowledge sharing, moderation, engagement, analytics and digital customer experiences.
 
-- **[Brex](https://www.brex.com/)**  
-  Corporate spend and travel platform providing cards, travel booking, expense management, reimbursements, controls and financial workflows.
+- **[Gainsight Community](https://www.gainsight.com/)**  
+  Community capabilities within the Gainsight ecosystem, focused on customer engagement, peer-to-peer support, knowledge sharing and customer-success workflows.
 
-- **[Airbase](https://www.airbase.com/)**  
-  Spend-management platform covering corporate cards, reimbursements, accounts payable, approvals and expense workflows.
+- **[Higher Logic Vanilla](https://www.higherlogic.com/products/vanilla/)**  
+  Customer and member community platform focused on discussion, knowledge sharing, engagement, moderation and self-service.
 
-- **[Rippling](https://www.rippling.com/)**  
-  Workforce-management platform with employee spend, corporate cards, reimbursements and expense-related workflows integrated with HR.
+- **[Bettermode](https://bettermode.com/)**  
+  Modern community platform with modular spaces, posts, discussions, member profiles, reactions, notifications, APIs and embeddable community components.
 
-- **[BILL Spend & Expense](https://www.bill.com/product/spend-and-expense)**  
-  Corporate spending platform combining cards, expense management, budgets, controls and financial workflows.
+- **[Khoros](https://khoros.com/)**  
+  Enterprise customer-engagement ecosystem covering communities, social engagement, digital care and customer interaction.
 
-- **[Mesh Payments](https://meshpayments.com/)**  
-  Spend-management platform providing corporate cards, travel, expense automation, controls and financial visibility.
+- **[Bettermode API](https://developers.bettermode.com/)**  
+  Developer-oriented community infrastructure for embedding and customizing community experiences within existing products.
 
-- **[Soldo](https://www.soldo.com/)**  
-  Business spending platform providing prepaid/company cards, budgets, expense tracking, controls and accounting integrations.
+- **[Vanilla Forums](https://www.vanillaforums.com/)**  
+  Hosted community/forum platform with discussion, knowledge base, moderation and customer-community capabilities.
 
-- **[Ramp Travel](https://ramp.com/travel)**  
-  Corporate travel-management capability integrated with Ramp's broader spend-management ecosystem.
-
-- **[TravelBank](https://travelbank.com/)**  
-  Business travel and expense platform supporting travel booking, expense reporting, policy controls and spend management.
-
-- **[Fyle](https://www.fylehq.com/)**  
-  Expense-management platform supporting receipt capture, expense reports, corporate cards, mileage, approvals and accounting integrations.
-
-- **[Rydoo](https://www.rydoo.com/)**  
-  Cloud expense-management platform providing receipt capture, expense reporting, mileage, approvals, policy controls and accounting integrations.
-
-- **[Payhawk](https://payhawk.com/)**  
-  Spend-management platform combining corporate cards, expense management, accounts payable, procurement and financial controls.
+- **[Higher Logic Thrive](https://www.higherlogic.com/)**  
+  Member and community engagement ecosystem supporting associations and professional organizations with community, email, automation and engagement capabilities.
 
 ## Open-Source GitHub Projects
 
-> **Note:** The projects below are not all complete SAP Concur/Navan/TravelPerk equivalents. They range from expense-management and accounting platforms to travel-planning, booking, mileage, time-tracking, workflow and analytics infrastructure that can collectively form an open-source T&E system.
+> **Note:** The projects below are not all direct Circle/Mighty Networks/Khoros equivalents. They cover different parts of the community ecosystem, including discussion forums, social networks, decentralized communities, knowledge sharing, chat, real-time communication, events and community infrastructure.
 
-### Expense Management & Accounting
+### Full Community / Forum Platforms
 
-- **[ERPNext](https://github.com/frappe/erpnext)**  
-  **Open-source ERP — strongest general foundation.**  
-  Provides accounting, employee expense claims, payments, purchasing, projects, employees, currencies, budgets and financial reporting. It can be extended with travel-request, travel-policy, mileage and corporate-card workflows.
+- **[Discourse](https://github.com/discourse/discourse)**  
+  **Open-source community discussion platform — strongest overall candidate.**  
+  Mature Ruby on Rails community platform supporting discussions, categories, tags, private messages, trust levels, moderation, notifications, search, badges, plugins, themes and extensive community-management functionality.
 
-- **[Odoo Community](https://github.com/odoo/odoo)**  
-  **Open-source ERP platform.**  
-  Provides accounting, employee management, expenses, approvals, purchasing, projects and business workflows. Custom modules can add travel requests, booking integrations and corporate travel policies.
+- **[NodeBB](https://github.com/NodeBB/NodeBB)**  
+  **Modern open-source forum platform.**  
+  Node.js-based community software with real-time discussions, notifications, chat, user profiles, plugins, themes, reputation and social interactions.
 
-- **[Akaunting](https://github.com/akaunting/akaunting)**  
-  **Open-source accounting platform.**  
-  Provides expenses, invoices, transactions, vendors, customers, banking and reporting. Particularly useful for small and medium-sized organizations building lightweight expense-management workflows.
+- **[Flarum](https://github.com/flarum/framework)**  
+  **Lightweight open-source discussion platform.**  
+  Modern PHP-based forum framework designed for speed, simplicity and extensibility through an extensive extension ecosystem.
 
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)**  
-  **Open-source ERP/CRM.**  
-  Provides accounting, expenses, suppliers, invoices, payments, projects and business-management functionality.
+- **[Forem](https://github.com/forem/forem)**  
+  **Open-source community publishing platform.**  
+  Provides posts, comments, reactions, profiles, feeds, tags, moderation and community interaction. Particularly suitable for developer and knowledge-sharing communities.
 
-- **[Tryton](https://github.com/tryton/tryton)**  
-  **Open-source modular ERP.**  
-  Provides accounting, expenses, payments, parties, purchasing and financial workflows that can serve as a T&E back end.
+- **[Misago](https://github.com/rafalp/Misago)**  
+  **Open-source Django forum platform.**  
+  Provides discussions, categories, user profiles, moderation, private messaging, permissions and community-management features.
 
-- **[ERP5](https://github.com/Nexedi/erp5)**  
-  **Open-source ERP platform.**  
-  Provides accounting, financial transactions, expense-related workflows, organizations, projects and enterprise processes.
+- **[Talkyard](https://github.com/debiki/talkyard)**  
+  **Open-source discussion and Q&A platform.**  
+  Combines forum discussions, Q&A, comments and knowledge-sharing capabilities.
 
-### Dedicated Expense / Personal Finance Platforms
+- **[phpBB](https://github.com/phpbb/phpbb)**  
+  **Mature open-source forum platform.**  
+  Long-established PHP discussion software with categories, topics, user groups, moderation, permissions and extensive extensions.
 
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)**  
-  **Open-source self-hosted financial manager.**  
-  Provides transactions, budgets, categories, rules, bills, accounts and reporting. It is primarily a personal-finance application but can be useful as a financial-data and expense-management building block.
+- **[MyBB](https://github.com/mybb/mybb)**  
+  **Open-source PHP forum platform.**  
+  Provides threads, posts, private messages, profiles, moderation, user groups, themes and plugins.
 
-- **[Actual Budget](https://github.com/actualbudget/actual)**  
-  **Open-source budgeting and financial-management platform.**  
-  Provides account management, transactions, budgeting and financial reporting. Useful for financial-data infrastructure but not a complete enterprise expense-management platform.
+- **[Vanilla Forums Open Source](https://github.com/vanilla/vanilla)**  
+  **Open-source community/forum platform.**  
+  Provides discussion, moderation, user management, reputation and extensibility. The open-source project and commercial Higher Logic Vanilla offering should be distinguished.
 
-- **[GnuCash](https://github.com/Gnucash/gnucash)**  
-  **Open-source accounting software.**  
-  Provides double-entry accounting, expenses, income, accounts, reporting and financial tracking.
+### Social Network & Member Community Platforms
 
-- **[Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)**  
-  **Open-source personal-finance manager.**  
-  Provides transaction management, categories, budgets, accounts and reporting.
+- **[HumHub](https://github.com/humhub/humhub)**  
+  **Open-source social-networking platform.**  
+  Provides user profiles, spaces, streams, posts, comments, groups, notifications, files, permissions and collaboration features. Particularly suitable for private organizations and member networks.
 
-- **[Kresus](https://github.com/kresusapp/kresus)**  
-  **Open-source personal-finance application.**  
-  Provides account aggregation, transaction management, categorization and financial reporting.
+- **[Elgg](https://github.com/Elgg/Elgg)**  
+  **Open-source social networking framework.**  
+  Provides profiles, activity streams, groups, blogs, discussions, messaging and extensibility for building custom social/community applications.
 
-### Employee Expense Extensions
+- **[Open Social](https://www.drupal.org/project/social)**  
+  **Open-source community platform based on Drupal.**  
+  Supports groups, profiles, discussions, events, content, notifications and member interaction. Useful for associations, NGOs, organizations and professional networks.
 
-- **[ERPNext Expenses](https://github.com/kid1194/erpnext_expenses)**  
-  **Open-source ERPNext expense-management extension.**  
-  Adds expense-management functionality to ERPNext. The repository currently describes the project as being in an alpha stage, so it should be evaluated carefully before production use.
+- **[Drupal](https://github.com/drupal/drupal)**  
+  **Open-source content/community framework.**  
+  Provides users, roles, permissions, groups, content types, taxonomy, comments and an extensive module ecosystem for building custom communities.
 
-- **[Kimai](https://github.com/kimai/kimai)**  
-  **Open-source time and expense infrastructure.**  
-  Provides time tracking, rates, expenses, invoices, customers and projects. It can be useful for consulting, project travel and reimbursable-expense workflows.
+- **[BuddyPress](https://github.com/buddypress/buddypress)**  
+  **Open-source WordPress social-networking plugin.**  
+  Adds member profiles, activity streams, groups, private messaging and community features to WordPress.
 
-### Travel Planning & Routing
+- **[WordPress](https://github.com/WordPress/wordpress-develop)**  
+  **Open-source publishing platform.**  
+  With plugins such as BuddyPress and bbPress, WordPress can form the foundation of custom community, membership and discussion platforms.
 
-- **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)**  
-  **Open-source multimodal trip-planning engine.**  
-  Provides routing and trip-planning capabilities for public transit, walking, cycling and other modes. It can be integrated into a corporate travel application.
+- **[bbPress](https://github.com/WordPress/bbPress)**  
+  **Open-source WordPress forum software.**  
+  Provides discussion forums, topics, replies and moderation integrated with WordPress.
 
-- **[GraphHopper](https://github.com/graphhopper/graphhopper)**  
-  **Open-source routing engine.**  
-  Provides road routing and navigation functionality useful for mileage calculation, ground travel and employee-vehicle workflows.
+### Decentralized & Federated Communities
 
-- **[Valhalla](https://github.com/valhalla/valhalla)**  
-  **Open-source routing engine.**  
-  Provides routing, matrix, isochrone and map-matching capabilities. Useful for mileage reimbursement and travel-distance calculations.
+- **[Lemmy](https://github.com/LemmyNet/lemmy)**  
+  **Open-source federated discussion platform.**  
+  Provides communities, posts, comments, voting, moderation and federation through ActivityPub. Particularly suitable for decentralized Reddit-style communities.
 
-- **[OSRM](https://github.com/Project-OSRM/osrm-backend)**  
-  **Open-source routing engine.**  
-  High-performance road-routing infrastructure useful for calculating mileage, driving routes and travel distances.
+- **[Mastodon](https://github.com/mastodon/mastodon)**  
+  **Open-source decentralized social network.**  
+  Provides federated social networking, profiles, posts, follows, moderation and community interactions through ActivityPub.
 
-- **[OpenStreetMap](https://github.com/openstreetmap/openstreetmap-website)**  
-  **Open geographic-data ecosystem.**  
-  Useful as a map and geographic-data foundation for custom travel applications, mileage calculation and location services.
+- **[Misskey](https://github.com/misskey-dev/misskey)**  
+  **Open-source federated social platform.**  
+  Provides posts, reactions, feeds, channels, messaging, profiles and ActivityPub federation.
 
-### Travel Booking / Reservation Infrastructure
+- **[Akkoma](https://akkoma.dev/AkkomaGang/akkoma)**  
+  **Open-source federated social platform.**  
+  Provides decentralized social-networking functionality compatible with the broader ActivityPub ecosystem.
 
-- **[LibreBooking](https://github.com/LibreBooking/librebooking)**  
-  **Open-source reservation and resource scheduling system.**  
-  Primarily designed for reserving shared resources, rooms and equipment, but can be adapted for corporate vehicles, accommodation resources and internal travel assets.
+- **[Friendica](https://github.com/friendica/friendica)**  
+  **Open-source decentralized social-networking platform.**  
+  Provides profiles, groups, posts, private messages and interoperability with multiple decentralized social protocols.
+
+- **[PeerTube](https://github.com/Chocobozzz/PeerTube)**  
+  **Open-source decentralized video platform.**  
+  Useful as a video/community component for communities centered around video content and creator interaction.
+
+### Real-Time Chat & Community Communication
+
+- **[Matrix](https://github.com/matrix-org/matrix-spec)**  
+  **Open communication protocol.**  
+  Provides an open standard for decentralized, interoperable real-time communication. It can provide the messaging infrastructure underneath a broader community platform.
+
+- **[Element Web](https://github.com/element-hq/element-web)**  
+  **Open-source Matrix client.**  
+  Provides rooms, direct messages, spaces, voice/video communication and collaboration features.
+
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)**  
+  **Open-source communication platform.**  
+  Provides channels, direct messaging, threads, integrations, file sharing, voice/video and community-oriented communication.
+
+- **[Mattermost](https://github.com/mattermost/mattermost)**  
+  **Open-source collaboration and messaging platform.**  
+  Provides channels, threads, direct messaging, integrations and workflows suitable for private professional communities.
+
+- **[Zulip](https://github.com/zulip/zulip)**  
+  **Open-source threaded team/community communication platform.**  
+  Provides topic-based conversations, streams, private messages, integrations and powerful search.
+
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)**  
+  **Open-source video-conferencing platform.**  
+  Useful as a video-meeting layer for communities, events, office hours and member interactions.
+
+### Knowledge Sharing & Community Q&A
+
+- **[Answer](https://github.com/answerdev/answer)**  
+  **Open-source Q&A community platform.**  
+  Designed for knowledge-sharing communities with questions, answers, voting, tags, reputation and moderation.
+
+- **[Wiki.js](https://github.com/requarks/wiki)**  
+  **Open-source knowledge platform.**  
+  Provides collaborative documentation, knowledge bases, permissions, search and content management.
+
+- **[BookStack](https://github.com/BookStackApp/BookStack)**  
+  **Open-source documentation platform.**  
+  Useful for community knowledge bases, member documentation, FAQs and collaborative content.
+
+- **[Documize](https://github.com/documize/community)**  
+  **Open-source knowledge-management platform.**  
+  Provides structured documentation, knowledge sharing, search and collaborative content.
+
+- **[MediaWiki](https://github.com/wikimedia/mediawiki)**  
+  **Open-source wiki platform.**  
+  Provides collaborative knowledge creation and is suitable for large community-maintained knowledge bases.
+
+### Events & Community Activities
 
 - **[Pretix](https://github.com/prairielearn/pretext)**  
-  Open-source ticketing ecosystems can be integrated into specialized travel/event workflows, although they are not direct corporate travel-management replacements.
+  Open-source ticketing and event infrastructure that can be integrated into community event workflows.
 
-- **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)**  
-  Useful for itinerary planning and multimodal journey construction when combined with external travel inventory and booking APIs.
+- **[Mobilizon](https://framagit.org/framasoft/mobilizon)**  
+  **Open-source federated events platform.**  
+  Provides event creation, calendars, groups and event discovery, making it useful for community-organized events.
 
-### Mileage & Time Tracking
+- **[Decidim](https://github.com/decidim/decidim)**  
+  **Open-source participatory community platform.**  
+  Provides participatory processes, proposals, meetings, discussions and community decision-making.
 
-- **[Kimai](https://github.com/kimai/kimai)**  
-  Useful for tracking travel time, project hours, rates, expenses and reimbursable activities.
+- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)**  
+  **Open-source assembly and meeting-management platform.**  
+  Useful for associations, clubs and organizations managing formal meetings and member participation.
 
-- **[GraphHopper](https://github.com/graphhopper/graphhopper)**  
-  Can provide distance calculations for mileage-reimbursement workflows.
+### Community Analytics & Intelligence
 
-- **[OSRM](https://github.com/Project-OSRM/osrm-backend)**  
-  Useful for determining road distance and travel routes for mileage reimbursement.
+- **[Matomo](https://github.com/matomo-org/matomo)**  
+  **Open-source analytics platform.**  
+  Useful for understanding community traffic, content engagement, referrals and member behavior.
 
-- **[Valhalla](https://github.com/valhalla/valhalla)**  
-  Useful for route distance, travel-time estimation and geospatial travel analytics.
+- **[Umami](https://github.com/umami-software/umami)**  
+  **Open-source privacy-focused analytics.**  
+  Useful for lightweight community website and content analytics.
 
-### Workflow & Approval Automation
+- **[PostHog](https://github.com/PostHog/posthog)**  
+  **Open-source product/community analytics platform.**  
+  Provides event analytics, funnels, cohorts, retention, session replay, feature flags, surveys and experimentation that can be applied to community products.
 
-- **[n8n](https://github.com/n8n-io/n8n)**  
-  **Open-source workflow automation.**  
-  Useful for travel-request approvals, expense reminders, receipt workflows, accounting synchronization, corporate-card feeds and reimbursement notifications.
+- **[Countly](https://github.com/countly/countly-server)**  
+  **Open-source analytics platform.**  
+  Provides web/mobile analytics useful for measuring community engagement, retention and feature usage.
 
-- **[Node-RED](https://github.com/node-red/node-red)**  
-  **Open-source integration platform.**  
-  Useful for connecting travel booking APIs, expense systems, accounting platforms, HR systems, corporate cards and messaging platforms.
+### Search & Discovery
 
-- **[Camunda](https://github.com/camunda/camunda)**  
-  **Open-source workflow orchestration.**  
-  Useful for modeling travel approval, expense approval, reimbursement, policy exceptions and finance workflows.
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)**  
+  **Open-source search and analytics engine.**  
+  Useful for scalable community search, content indexing, member discovery and moderation analytics.
 
-- **[Flowable](https://github.com/flowable/flowable-engine)**  
-  **Open-source BPM/workflow engine.**  
-  Useful for employee travel requests, approval chains, expense exceptions and reimbursement processes.
+- **[Apache Solr](https://github.com/apache/solr)**  
+  **Open-source search platform.**  
+  Useful for indexing discussions, documentation, profiles, FAQs and community content.
 
-### Identity & Access Management
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)**  
+  **Open-source search engine.**  
+  Provides fast search suitable for community posts, documentation, profiles and knowledge bases.
+
+- **[Typesense](https://github.com/typesense/typesense)**  
+  **Open-source search engine.**  
+  Useful for typo-tolerant, fast community content and member search.
+
+### Notifications & Messaging Infrastructure
+
+- **[Novu](https://github.com/novuhq/novu)**  
+  **Open-source notification infrastructure.**  
+  Provides multi-channel notifications including email, SMS, push and in-app notifications. Useful for community notifications and engagement workflows.
+
+- **[Apprise](https://github.com/caronc/apprise)**  
+  **Open-source notification library.**  
+  Supports numerous notification services and can be used to build community alerts and moderation notifications.
+
+- **[ntfy](https://github.com/binwiederhier/ntfy)**  
+  **Open-source push-notification service.**  
+  Useful for self-hosted community alerts and operational notifications.
+
+### Identity, Authentication & Membership
 
 - **[Keycloak](https://github.com/keycloak/keycloak)**  
-  **Open-source identity platform.**  
-  Provides SSO, OAuth 2.0, OpenID Connect, SAML and role-based access control. Useful for employee, manager, finance, travel-admin and auditor access.
+  **Open-source identity and access-management platform.**  
+  Provides SSO, OAuth 2.0, OpenID Connect, SAML, roles and user federation for community platforms.
 
 - **[Authentik](https://github.com/goauthentik/authentik)**  
   **Open-source identity provider.**  
-  Useful for securing self-hosted travel and expense portals.
+  Useful for securing self-hosted community applications and integrating multiple identity providers.
 
-### Analytics & Reporting
+- **[ORY Kratos](https://github.com/ory/kratos)**  
+  **Open-source identity system.**  
+  Provides user registration, login, account recovery and identity-management infrastructure.
 
-- **[Metabase](https://github.com/metabase/metabase)**  
-  **Open-source BI platform.**  
-  Useful for travel spend, employee expenses, policy compliance, supplier costs, reimbursement time and department-level analytics.
+### Moderation & Community Safety
 
-- **[Apache Superset](https://github.com/apache/superset)**  
-  **Open-source BI platform.**  
-  Useful for advanced T&E analytics and SQL-based financial reporting.
+- **[Perspective API](https://github.com/conversationai/perspectiveapi)**  
+  Machine-learning APIs for analyzing potentially toxic or abusive content. Useful as a component in automated community moderation.
 
-- **[Grafana](https://github.com/grafana/grafana)**  
-  **Open-source visualization platform.**  
-  Useful for real-time travel-spend dashboards, expense queues, reimbursement status and policy metrics.
+- **[OpenAI Moderation alternatives / custom classifiers](https://github.com/unitaryai/detoxify)**  
+  Open-source toxicity-classification models such as Detoxify can be integrated into custom moderation pipelines.
 
-### Data & Integration Infrastructure
-
-- **[PostgreSQL](https://github.com/postgres/postgres)**  
-  **Open-source relational database.**  
-  Suitable for employee profiles, trips, expense records, policies, approvals, reimbursements and accounting mappings.
-
-- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)**  
-  **Open-source analytical database.**  
-  Useful for high-volume travel and expense analytics, card transactions and historical spend analysis.
-
-- **[Apache Kafka](https://github.com/apache/kafka)**  
-  **Open-source event-streaming platform.**  
-  Useful for real-time expense events, card transactions, travel booking events and approval notifications.
-
-- **[Apache Camel](https://github.com/apache/camel)**  
-  **Open-source integration framework.**  
-  Useful for connecting ERP, HRIS, banks, corporate-card providers, travel-booking systems and expense platforms.
+- **[Detoxify](https://github.com/unitaryai/detoxify)**  
+  Open-source toxicity detection models for identifying potentially harmful online content.
 
 ## Additional Strong Open-Source Options
 
-The following projects are not necessarily complete SAP Concur/Navan/TravelPerk replacements but can provide important components for an open-source T&E ecosystem:
+The following projects are not necessarily complete Circle/Mighty Networks/Khoros/Bettermode replacements but can provide important components for an open-source community ecosystem:
 
-- **[ERPNext](https://github.com/frappe/erpnext)** for accounting, employee expenses, payments, purchasing and financial workflows.
-- **[Odoo Community](https://github.com/odoo/odoo)** for accounting, employee expenses, approvals and custom travel workflows.
-- **[Akaunting](https://github.com/akaunting/akaunting)** for lightweight accounting and expense management.
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** for ERP, accounting, expenses, suppliers and payments.
-- **[Tryton](https://github.com/tryton/tryton)** for modular accounting and financial management.
-- **[ERP5](https://github.com/Nexedi/erp5)** for enterprise accounting and financial workflows.
-- **[ERPNext Expenses](https://github.com/kid1194/erpnext_expenses)** for an expense-management extension to ERPNext.
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** for self-hosted transaction, budget and expense management.
-- **[Actual Budget](https://github.com/actualbudget/actual)** for open-source budgeting and financial management.
-- **[GnuCash](https://github.com/Gnucash/gnucash)** for open-source accounting and expense tracking.
-- **[Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)** for personal-finance and expense tracking.
-- **[Kresus](https://github.com/kresusapp/kresus)** for open-source financial account and transaction management.
-- **[Kimai](https://github.com/kimai/kimai)** for time, rates, expenses and invoicing.
-- **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)** for multimodal travel planning.
-- **[GraphHopper](https://github.com/graphhopper/graphhopper)** for routing and mileage calculations.
-- **[Valhalla](https://github.com/valhalla/valhalla)** for geospatial routing and travel-distance calculations.
-- **[OSRM](https://github.com/Project-OSRM/osrm-backend)** for high-performance road routing and mileage.
-- **[OpenStreetMap](https://github.com/openstreetmap/openstreetmap-website)** for geographic-data infrastructure.
-- **[LibreBooking](https://github.com/LibreBooking/librebooking)** for open-source reservations and resource scheduling.
-- **[n8n](https://github.com/n8n-io/n8n)** for T&E workflow automation.
-- **[Node-RED](https://github.com/node-red/node-red)** for integrations and event-driven workflows.
-- **[Camunda](https://github.com/camunda/camunda)** for approval and reimbursement workflows.
-- **[Flowable](https://github.com/flowable/flowable-engine)** for BPMN-based T&E workflows.
-- **[Keycloak](https://github.com/keycloak/keycloak)** for identity and role management.
+- **[Discourse](https://github.com/discourse/discourse)** for mature discussion communities.
+- **[NodeBB](https://github.com/NodeBB/NodeBB)** for real-time modern forums.
+- **[Flarum](https://github.com/flarum/framework)** for lightweight extensible forums.
+- **[Forem](https://github.com/forem/forem)** for community-driven publishing.
+- **[Misago](https://github.com/rafalp/Misago)** for Django-based communities.
+- **[Talkyard](https://github.com/debiki/talkyard)** for forums and Q&A.
+- **[phpBB](https://github.com/phpbb/phpbb)** for mature forum infrastructure.
+- **[MyBB](https://github.com/mybb/mybb)** for traditional community forums.
+- **[Vanilla Forums](https://github.com/vanilla/vanilla)** for customizable discussion communities.
+- **[HumHub](https://github.com/humhub/humhub)** for private social networks.
+- **[Elgg](https://github.com/Elgg/Elgg)** for custom social-network applications.
+- **[Open Social](https://www.drupal.org/project/social)** for associations and member communities.
+- **[BuddyPress](https://github.com/buddypress/buddypress)** for WordPress-based social communities.
+- **[bbPress](https://github.com/WordPress/bbPress)** for WordPress forums.
+- **[Drupal](https://github.com/drupal/drupal)** for highly customizable community portals.
+- **[Lemmy](https://github.com/LemmyNet/lemmy)** for federated discussion communities.
+- **[Mastodon](https://github.com/mastodon/mastodon)** for decentralized social networking.
+- **[Misskey](https://github.com/misskey-dev/misskey)** for federated social communities.
+- **[Friendica](https://github.com/friendica/friendica)** for decentralized social networking.
+- **[Akkoma](https://akkoma.dev/AkkomaGang/akkoma)** for federated communities.
+- **[PeerTube](https://github.com/Chocobozzz/PeerTube)** for decentralized video communities.
+- **[Matrix](https://github.com/matrix-org/matrix-spec)** for decentralized communication.
+- **[Element](https://github.com/element-hq/element-web)** for Matrix-based community messaging.
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** for real-time community communication.
+- **[Mattermost](https://github.com/mattermost/mattermost)** for private communities and collaboration.
+- **[Zulip](https://github.com/zulip/zulip)** for topic-based threaded communication.
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** for community video meetings.
+- **[Answer](https://github.com/answerdev/answer)** for Q&A communities.
+- **[Wiki.js](https://github.com/requarks/wiki)** for community knowledge bases.
+- **[BookStack](https://github.com/BookStackApp/BookStack)** for documentation and knowledge sharing.
+- **[MediaWiki](https://github.com/wikimedia/mediawiki)** for large collaborative knowledge bases.
+- **[Mobilizon](https://framagit.org/framasoft/mobilizon)** for community events.
+- **[Decidim](https://github.com/decidim/decidim)** for participatory communities.
+- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)** for member organizations and associations.
+- **[PostHog](https://github.com/PostHog/posthog)** for community/product engagement analytics.
+- **[Matomo](https://github.com/matomo-org/matomo)** for community website analytics.
+- **[Umami](https://github.com/umami-software/umami)** for privacy-focused analytics.
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** for scalable community search.
+- **[Apache Solr](https://github.com/apache/solr)** for content discovery.
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)** for fast community search.
+- **[Typesense](https://github.com/typesense/typesense)** for typo-tolerant search.
+- **[Novu](https://github.com/novuhq/novu)** for multi-channel notifications.
+- **[Apprise](https://github.com/caronc/apprise)** for notification integrations.
+- **[ntfy](https://github.com/binwiederhier/ntfy)** for self-hosted push notifications.
+- **[Keycloak](https://github.com/keycloak/keycloak)** for identity and access management.
 - **[Authentik](https://github.com/goauthentik/authentik)** for self-hosted authentication.
-- **[Metabase](https://github.com/metabase/metabase)** for self-service T&E analytics.
-- **[Apache Superset](https://github.com/apache/superset)** for advanced BI.
-- **[Grafana](https://github.com/grafana/grafana)** for operational dashboards.
-- **[PostgreSQL](https://github.com/postgres/postgres)** for transactional T&E data.
-- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** for large-scale travel and expense analytics.
-- **[Apache Kafka](https://github.com/apache/kafka)** for event-driven expense and travel processing.
-- **[Apache Camel](https://github.com/apache/camel)** for enterprise integrations.
+- **[ORY Kratos](https://github.com/ory/kratos)** for identity management.
+- **[Detoxify](https://github.com/unitaryai/detoxify)** for toxicity detection and moderation.
 
-## Recommended Open-Source Travel & Expense Stack
+## Recommended Open-Source Community Stack
 
-For organizations wanting to build an **open-source alternative to SAP Concur, Navan, TravelPerk, Expensify, Emburse, Zoho Expense, Center, RouteSpring, Pleo or SAP Travel**, a practical architecture could combine:
+For organizations wanting to build an **open-source alternative to Circle, Mighty Networks, Bettermode, Higher Logic, Hivebrite, Khoros Communities, Gainsight Community, Geneva or Tribe**, a practical architecture could combine:
 
-**T&E Core**
+**Community Core**
 
-`ERPNext / Odoo / Custom T&E Application`
+`Discourse / NodeBB / Flarum / HumHub / Open Social`
 
 ↓
 
-**Employee & Organization Data**
+**Content & Knowledge**
 
-`HRIS → Employee → Department → Cost Center → Manager`
-
-↓
-
-**Travel Request**
-
-`Trip Request → Purpose → Destination → Dates → Budget`
+`Wiki.js / BookStack / MediaWiki`
 
 ↓
 
-**Approval**
+**Real-Time Communication**
 
-`Manager → Finance → Travel Policy → Exception Approval`
-
-↓
-
-**Travel Planning**
-
-`OpenTripPlanner + External Flight/Hotel/Rail APIs`
+`Matrix / Element / Rocket.Chat / Mattermost`
 
 ↓
 
-**Booking**
+**Events**
 
-`Flight + Hotel + Rail + Car`
-
-↓
-
-**Trip Record**
-
-`Itinerary + Traveler + Cost + Policy + Booking`
+`Mobilizon / Custom Event Module`
 
 ↓
 
-**Expense Capture**
+**Identity**
 
-`Receipt → OCR → Merchant → Amount → Currency → Category`
-
-↓
-
-**Corporate Card**
-
-`Card Transaction → Matching → Receipt → Employee → Policy`
+`Keycloak / Authentik / ORY`
 
 ↓
 
-**Expense Approval**
+**Search**
 
-`Employee → Manager → Finance`
-
-↓
-
-**Reimbursement**
-
-`Approved Expense → Payroll/AP → Employee Payment`
+`OpenSearch / Meilisearch / Typesense`
 
 ↓
 
-**Accounting**
+**Notifications**
 
-`ERP → GL → Cost Center → Project → Tax`
+`Novu / ntfy / Apprise`
 
 ↓
 
 **Analytics**
 
-`PostgreSQL/ClickHouse → Metabase/Superset/Grafana`
+`PostHog / Matomo / Umami`
 
-A particularly strong open-source combination is:
+↓
 
-**ERPNext + OpenTripPlanner + GraphHopper + Kimai + n8n + Keycloak + PostgreSQL + Metabase**
+**Moderation**
 
-For a smaller organization:
+`Custom Rules + Detoxify + Human Moderators`
 
-**Akaunting + Firefly III + n8n + OpenTripPlanner**
+↓
 
-For a larger enterprise:
+**Data**
 
-**ERPNext/Odoo + Custom T&E Portal + OpenTripPlanner + external booking APIs + Kafka + Camunda + PostgreSQL/ClickHouse + Superset**
+`PostgreSQL + Redis + Object Storage`
 
-### Suggested T&E Data Model
+↓
+
+**BI**
+
+`Metabase / Apache Superset / Grafana`
+
+A particularly strong general-purpose open-source combination is:
+
+**Discourse + Keycloak + OpenSearch + Matrix + Wiki.js + PostHog + Novu + PostgreSQL**
+
+For a **private member/community network**:
+
+**HumHub + Keycloak + OpenSearch + Matrix + Matomo**
+
+For a **developer community**:
+
+**Forem + Discourse + Wiki.js + OpenSearch + PostHog**
+
+For a **decentralized public community**:
+
+**Lemmy + Mastodon + Matrix + ActivityPub + OpenSearch**
+
+For an **association/alumni community**:
+
+**Open Social + Drupal + Keycloak + Mobilizon + Matrix + Matomo**
+
+### Suggested Community Data Model
 
 ```text
-Organization
- ├── Employee
- │    ├── Department
- │    ├── Cost Center
- │    ├── Manager
- │    ├── Policy Group
- │    └── Corporate Card
+Community
+ ├── Organization
  │
- ├── Travel Request
- │    ├── Purpose
- │    ├── Destination
- │    ├── Dates
- │    ├── Budget
- │    ├── Policy
- │    └── Approval
+ ├── Member
+ │    ├── Profile
+ │    ├── Role
+ │    ├── Reputation
+ │    ├── Badges
+ │    ├── Interests
+ │    └── Membership
  │
- ├── Trip
- │    ├── Traveler
- │    ├── Flight
- │    ├── Hotel
- │    ├── Rail
- │    ├── Car
- │    ├── Itinerary
- │    └── Booking
- │
- ├── Expense
- │    ├── Merchant
- │    ├── Amount
- │    ├── Currency
+ ├── Space
+ │    ├── Group
  │    ├── Category
- │    ├── Receipt
- │    ├── Tax
- │    ├── Project
- │    └── Cost Center
+ │    ├── Topic
+ │    └── Channel
  │
- ├── Corporate Card
- │    ├── Cardholder
- │    ├── Transaction
- │    ├── Merchant
- │    └── Reconciliation
+ ├── Content
+ │    ├── Post
+ │    ├── Comment
+ │    ├── Question
+ │    ├── Answer
+ │    ├── Article
+ │    └── Media
  │
- ├── Reimbursement
- │    ├── Employee
- │    ├── Approved Amount
- │    ├── Payment
- │    └── Status
+ ├── Engagement
+ │    ├── Like
+ │    ├── Reaction
+ │    ├── Share
+ │    ├── Bookmark
+ │    └── Follow
  │
- └── Policy
-      ├── Airfare
-      ├── Hotel
-      ├── Meals
-      ├── Ground Transport
-      ├── Mileage
-      ├── Per Diem
-      └── Exceptions
-
-The key architectural principle should be:
-
-Every employee travel transaction should connect the traveler, trip, booking, expense, policy, approval, payment and accounting record into one auditable lifecycle.
-
-A modern T&E system should therefore connect:
-
-Employee → Travel Request → Approval → Booking → Trip → Expense → Reconciliation → Reimbursement → Accounting
-
-Travel Request Architecture
-Employee
-   ↓
-Travel Request
-   ↓
-Business Purpose
-   ↓
-Destination / Dates
-   ↓
-Estimated Cost
-   ↓
-Travel Policy
-   ↓
-Manager Approval
-   ↓
-Finance Approval
-   ↓
-Booking
-
-The request should capture:
-
-Traveler
-
-Destination
-
-Business purpose
-
-Start/end dates
-
-Estimated airfare
-
-Estimated hotel
-
-Estimated ground transport
-
-Estimated meals
-
-Project
-
-Cost center
-
-Customer
-
-Required approval
-
-Policy exceptions
-
-Travel Booking Layer
-Travel Request
-      ↓
-Search
-      ↓
- ┌────┼─────────────┬──────────────┐
- │    │             │              │
-Flight Hotel        Rail           Car
- │    │             │              │
- └────┴─────────────┴──────────────┘
-              ↓
-         Policy Check
-              ↓
-       Price Comparison
-              ↓
-          Booking
-              ↓
-       Trip Itinerary
-
-For an open-source implementation, OpenTripPlanner, GraphHopper, Valhalla and OSRM can provide routing and travel-planning infrastructure, while commercial travel inventory/booking APIs may still be required for actual airline, hotel, rail and car reservations.
-
-Expense Capture Layer
-Receipt
-   ↓
-OCR
-   ↓
-Merchant Detection
-   ↓
-Date / Amount
-   ↓
-Currency
-   ↓
-Tax
-   ↓
-Expense Category
-   ↓
-Employee
-   ↓
-Project / Cost Center
-   ↓
-Policy Check
-
-A modern system should support:
-
-Mobile receipt capture
-
-Email receipt forwarding
-
-OCR
-
-PDF/image receipts
-
-E-receipts
-
-Corporate-card feeds
-
-Merchant recognition
-
-Currency conversion
-
-Tax extraction
-
-Duplicate detection
-
-Corporate Card Reconciliation
-Corporate Card
-      ↓
-Card Transaction
-      ↓
-Employee Matching
-      ↓
-Receipt Matching
-      ↓
-Merchant Matching
-      ↓
-Expense Category
-      ↓
-Policy Check
-      ↓
-Manager Approval
-      ↓
-ERP Posting
-
-This is one of the most important workflows for reducing manual expense reporting.
-
-Travel Policy Engine
-
-A self-hosted T&E system should maintain configurable rules such as:
-
-Airfare
- ├── Cabin Class
- ├── Advance Booking
- ├── Maximum Fare
- └── Preferred Carrier
-
-Hotel
- ├── Maximum Nightly Rate
- ├── City Tier
- └── Preferred Hotel
-
-Meals
- ├── Daily Limit
- ├── Meal Type
- └── Per Diem
-
-Ground Transport
- ├── Taxi
- ├── Ride Share
- ├── Rental Car
- └── Mileage
-
-General
- ├── Cost Center
- ├── Project
- ├── Approval Level
- └── Exception Rules
-
-Policy violations should produce:
-
-Expense
-   ↓
-Policy Engine
-   ↓
- ┌───────────────┬─────────────────┐
- │               │                 │
-Compliant     Warning          Exception
- │               │                 │
-Approve       Employee         Manager
-              Review           Approval
-Mileage Reimbursement
-
-An open-source mileage engine can combine:
-
-Employee GPS/Origin/Destination → Routing Engine → Distance → Mileage Rate → Reimbursement
-
-Potential routing engines include:
-
-GraphHopper
-
-OSRM
-
-Valhalla
-
-OpenTripPlanner
-
-Example:
-
-Origin
-  ↓
-Destination
-  ↓
-OSRM / GraphHopper / Valhalla
-  ↓
-Road Distance
-  ↓
-Mileage Rate
-  ↓
-Reimbursement
-
-The mileage rate should remain configurable by country, jurisdiction, vehicle type, employee group or organizational policy.
-
-Per Diem Management
-Trip
- ↓
-Country
- ↓
-City
- ↓
-Travel Dates
- ↓
-Eligible Days
- ↓
-Per-Diem Rate
- ↓
-Meals Deduction
- ↓
-Final Allowance
-
-A robust system should support:
-
-Country-specific rates
-
-City-specific rates
-
-Full-day/partial-day rules
-
-Breakfast/lunch/dinner deductions
-
-Hotel deductions
-
-Business-meal deductions
-
-Currency conversion
-
-Policy exceptions
-
-Expense Approval Workflow
-Employee
-   ↓
-Expense Report
-   ↓
-Automated Validation
-   ↓
-Policy Check
-   ↓
-Manager Approval
-   ↓
-Finance Review
-   ↓
-Accounting Validation
-   ↓
-Reimbursement
-
-Approval rules can depend on:
-
-Amount
-
-Department
-
-Cost center
-
-Project
-
-Expense category
-
-Country
-
-Policy violation
-
-Employee level
-
-Customer
-
-Currency
-
-Reimbursement Architecture
-Approved Expense
-      ↓
-Reimbursement Batch
-      ↓
-Employee Payment
-      ↓
-Payroll / Accounts Payable
-      ↓
-Bank
-      ↓
-Payment Confirmation
-      ↓
-ERP Reconciliation
-Accounting Integration
-
-Every approved expense should map to:
-
-Expense
- ├── General Ledger Account
- ├── Cost Center
- ├── Department
- ├── Project
- ├── Customer
- ├── Tax Code
- ├── Currency
- └── Employee
-
-This makes it possible to automatically post:
-
-Employee Expense
-      ↓
-Expense Account
-      ↓
-Tax
-      ↓
-Employee Payable
-      ↓
-Reimbursement
-      ↓
-Bank
-Travel & Expense Analytics
-
-An open-source T&E system can provide dashboards for:
-
-Total travel spend
-
-Total expense spend
-
-Spend per employee
-
-Spend per department
-
-Spend per project
-
-Spend per destination
-
-Airfare
-
-Hotel spend
-
-Car rental
-
-Rail
-
-Meals
-
-Mileage
-
-Per diem
-
-Corporate-card spend
-
-Reimbursement time
-
-Policy violations
-
-Out-of-policy spend
-
-Unused tickets
-
-Advance booking time
-
-Average trip cost
-
-Supplier spend
-
-Currency exposure
-
-Travel carbon emissions
-
-A practical analytics stack is:
-
-PostgreSQL/ClickHouse → dbt → Metabase/Superset → Grafana
-
-Travel Policy Analytics
-
-Useful metrics include:
-
-Policy Compliance Rate
-        =
-Compliant Transactions / Total Transactions
-
-Average Booking Lead Time
-        =
-Booking Date - Travel Date
-
-Out-of-Policy Rate
-        =
-Policy Exceptions / Total Transactions
-
-Average Expense Processing Time
-        =
-Reimbursement Date - Submission Date
-AI-Assisted T&E Layer
-
-An open-source T&E system can add AI-assisted capabilities:
-
-Travel / Expense Data
-        ↓
-AI / ML Layer
-        ↓
- ┌─────────────┬───────────────┬──────────────┐
- │             │               │              │
-OCR         Categorization   Fraud          Forecasting
- │             │               │              │
- └─────────────┴───────────────┴──────────────┘
-                       ↓
-                 Human Review
-
-Potential AI functions include:
-
-Receipt OCR
-
-Merchant recognition
-
-Expense categorization
-
-Automatic accounting-code assignment
-
-Duplicate-expense detection
-
-Fraud/anomaly detection
-
-Policy-violation prediction
-
-Travel-price prediction
-
-Hotel-price comparison
-
-Itinerary optimization
-
-Travel-policy recommendations
-
-Spend forecasting
-
-Natural-language expense reporting
-
-A useful architecture is:
-
-OCR → Structured Expense → Policy Engine → Anomaly Model → Human Approval → ERP
-
-AI should recommend classifications, flag anomalies and optimize travel choices while retaining appropriate human control over reimbursement, policy exceptions and financial decisions.
-
-Open-Source T&E Architecture
-                       ┌─────────────────────┐
-                       │      Employee       │
-                       │   Web / Mobile App  │
-                       └──────────┬──────────┘
-                                  │
-                    ┌─────────────▼─────────────┐
-                    │       T&E Portal          │
-                    │ Travel + Expense + Cards  │
-                    └─────────────┬─────────────┘
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-       ┌──────▼──────┐     ┌──────▼──────┐     ┌──────▼──────┐
-       │ Travel      │     │ Expense     │     │ Corporate   │
-       │ Engine      │     │ Engine      │     │ Card Engine │
-       └──────┬──────┘     └──────┬──────┘     └──────┬──────┘
-              │                   │                   │
-       OpenTripPlanner       OCR / Rules         Card Feeds
-       GraphHopper            Policy Engine       Reconciliation
-       OSRM / Valhalla        Approval
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                         ┌────────▼────────┐
-                         │ Workflow Engine │
-                         │ n8n / Camunda   │
-                         └────────┬────────┘
-                                  │
-                    ┌─────────────▼─────────────┐
-                    │      Financial Core       │
-                    │ ERPNext / Odoo / ERP5     │
-                    └─────────────┬─────────────┘
-                                  │
-                ┌─────────────────┼──────────────────┐
-                │                 │                  │
-          ┌─────▼─────┐     ┌────▼─────┐      ┌─────▼─────┐
-          │ PostgreSQL│     │ClickHouse│      │   ERP / GL │
-          └─────┬─────┘     └────┬─────┘      └───────────┘
-                │                 │
-                └────────┬────────┘
-                         │
-                 ┌───────▼────────┐
-                 │ Analytics / BI  │
-                 │ Metabase        │
-                 │ Superset        │
-                 │ Grafana         │
-                 └─────────────────┘
-How to Contribute
-
-Fork the repo.
-
-Add/edit entries in README.md (follow existing format).
-
-Include: name, GitHub/official link, 1–2 sentence description, and whether it is travel management, expense management, accounting, booking infrastructure, routing, mileage, workflow or analytics infrastructure.
-
-Clearly distinguish between a complete T&E platform and a component that can be used to build one.
-
-Prefer actively maintained projects with clear licenses and documentation.
-
-Mention the license where it materially affects self-hosting or commercial use.
-
-Identify whether the project focuses primarily on corporate travel, employee expenses, accounting, routing, booking, mileage or financial analytics.
-
-Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-Disclaimer
-
-This is a community-curated list — not exhaustive and not an endorsement.
-
-Enterprise T&E platforms combine many specialized functions including travel booking, expense reporting, corporate cards, policy management, approvals, reimbursements, accounting, travel inventory, supplier content and analytics.
-
-There is currently no broadly established open-source one-to-one replacement for the full enterprise functionality of SAP Concur, Navan or TravelPerk.
-
-Open-source projects listed here should therefore be viewed as alternatives, complementary systems or building blocks rather than direct replacements.
-
-ERPNext, Odoo, Dolibarr, Akaunting and ERP5 are primarily ERP/accounting platforms rather than dedicated enterprise T&E platforms.
-
-Firefly III, Actual Budget, GnuCash and Money Manager Ex are primarily personal-finance/accounting systems and should not be represented as complete corporate expense-management replacements.
-
-OpenTripPlanner, GraphHopper, OSRM and Valhalla provide travel/routing infrastructure rather than airline/hotel/rail inventory or complete corporate booking functionality.
-
-A production corporate travel-booking system generally requires access to appropriate travel inventory, airline/hotel/rail content, booking APIs, payment providers and supplier agreements.
-
-Travel and expense systems can process sensitive employee, financial, location and travel information. Self-hosted deployments require strong authentication, authorization, encryption, access controls, audit logging, retention policies and security monitoring.
-
-Corporate-card, banking and payment integrations require appropriate security controls and contractual/API access.
-
-Expense reimbursement, taxation, VAT/GST, per-diem rates and travel policies vary by jurisdiction and organization.
-
-Always verify project activity, license terms, security posture, integrations, data-export capabilities and production readiness before deploying an open-source component.
-
-Open-source, source-available, open-core and self-hostable are not interchangeable terms. Verify the exact license of every component before commercial deployment.
-
-Made for CFOs, finance teams, travel managers, HR departments, procurement teams, employees, accountants, developers, SaaS companies, corporate travel agencies, expense administrators and organizations building open financial infrastructure.
-Let's make travel and expense management more open, self-hostable, interoperable, privacy-conscious, automated, policy-driven, data-driven and AI-assisted.
+ ├── Event
+ │    ├── Registration
+ │    ├── Attendance
+ │    └── Recording
+ │
+ ├── Message
+ │    ├── Direct Message
+ │    ├── Chat
+ │    └── Notification
+ │
+ └── Moderation
+      ├── Report
+      ├── Flag
+      ├── Review
+      ├── Action
+      └── Appeal
+```
